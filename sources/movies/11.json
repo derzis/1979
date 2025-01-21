@@ -1,0 +1,38 @@
+{
+    "tmdb": 11,
+    "title": "Star Wars: Episode IV – A New Hope",
+    "sources": [
+        {
+            "name": "[COLOR green]Hexload[/COLOR]",
+            "url": "https://hexload.com/f5kx4mlqdea3",
+            "quality": "4K"
+        },
+        {
+            "name": "[COLOR green]Dood[/COLOR]",
+            "url": "https://doods.to/d/kijk2endoho3",
+            "quality": "1080p"
+        },
+        {
+            "name": "[COLOR green]Vidhide[/COLOR]",
+            "url": "https://dhtpre.com/file/4746c1z3w27n",
+            "quality": "1080p"
+        },
+        {
+            "name": "[COLOR green]Veev[/COLOR]",
+            "url": "https://veev.to/d/kijk2endoho3",
+            "quality": "720p"
+        },
+        {
+            "name": "[COLOR red]Streamtape[/COLOR]",
+            "url": "",
+            "quality": "720p"
+        }
+    ],
+    "subtitles": [
+        {
+            "language": "ro",
+            "subtitle": "https://derzis.xyz/sources/subs/11.srt"
+        }
+    ]
+}
+
