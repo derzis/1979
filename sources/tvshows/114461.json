@@ -1,0 +1,284 @@
+{
+    "tmdb_id": 114461,
+    "title": "Ahsoka",
+    "description": "După căderea Imperiului, Ahsoka Tano, fost membru Jedi, investighează o amenințare la adresa unei galaxii vulnerabile.",
+    "poster": "https://image.tmdb.org/t/p/w500/rDA4pkqNlNU2RQvcoOW9r8t41va.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/loDy1LWCkPjECjVTRmyKtOoUpNN.jpg",
+    "genres": [
+        "SF & Fantasy",
+        "Acţiune & Aventuri"
+    ],
+    "year": "2023",
+    "seasons": [
+        {
+            "tmdb_id": 171668,
+            "season_number": 1,
+            "episodes": [
+                {
+                    "tmdb_id": 2552685,
+                    "episode_number": 1,
+                    "title": "Partea întâi: Maestru și ucenică",
+                    "description": "Un prizonier scapă din custodia Noii Republici; o căutare de răspunsuri reunește două  prietene.",
+                    "sources": [
+                        {
+                            "name": "Source 1",
+                            "quality": "1080p",
+                            "url": "https://ds2play.com/d/894ucl9n6xby"
+                        },
+                        {
+                            "name": "Source 2",
+                            "quality": "720p",
+                            "url": ""
+                        },
+                        {
+                            "name": "Source 3",
+                            "quality": "480p",
+                            "url": "https://ds2play.com/d/f8parw7ov5rc"
+                        }
+                    ],
+                    "subtitles": [
+                        {
+                            "language": "en",
+                            "url": "https://example.com/114461/subs/s01e01_en.srt"
+                        },
+                        {
+                            "language": "ro",
+                            "url": "https://example.com/114461/subs/s01e01_ro.srt"
+                        }
+                    ]
+                },
+                {
+                    "tmdb_id": 4502580,
+                    "episode_number": 2,
+                    "title": "Partea a doua: Zoru-i mare",
+                    "description": "Ahsoka și generalul Hera Syndulla fac o descoperire la șantierele Noii Republici.",
+                    "sources": [
+                        {
+                            "name": "Source 1",
+                            "quality": "1080p",
+                            "url": "https://ds2play.com/d/qh9ov475a3jw"
+                        },
+                        {
+                            "name": "Source 2",
+                            "quality": "720p",
+                            "url": "https://example.com/114461/s01e02_720p.mp4"
+                        },
+                        {
+                            "name": "Source 3",
+                            "quality": "480p",
+                            "url": "https://example.com/114461/s01e02_480p.mp4"
+                        }
+                    ],
+                    "subtitles": [
+                        {
+                            "language": "en",
+                            "url": "https://example.com/114461/subs/s01e02_en.srt"
+                        },
+                        {
+                            "language": "ro",
+                            "url": "https://example.com/114461/subs/s01e02_ro.srt"
+                        }
+                    ]
+                },
+                {
+                    "tmdb_id": 4502583,
+                    "episode_number": 3,
+                    "title": "Partea a treia: E timpul să zburăm",
+                    "description": "Hera se încurcă în politica Noii Republici, iar Ahsoka și Sabine se duc pe o planetă îndepărtată.",
+                    "sources": [
+                        {
+                            "name": "Source 1",
+                            "quality": "1080p",
+                            "url": "https://ds2play.com/d/f8parw7ov5rc"
+                        },
+                        {
+                            "name": "Source 2",
+                            "quality": "720p",
+                            "url": "https://example.com/114461/s01e03_720p.mp4"
+                        },
+                        {
+                            "name": "Source 3",
+                            "quality": "480p",
+                            "url": "https://example.com/114461/s01e03_480p.mp4"
+                        }
+                    ],
+                    "subtitles": [
+                        {
+                            "language": "en",
+                            "url": "https://example.com/114461/subs/s01e03_en.srt"
+                        },
+                        {
+                            "language": "ro",
+                            "url": "https://example.com/114461/subs/s01e03_ro.srt"
+                        }
+                    ]
+                },
+                {
+                    "tmdb_id": 4502586,
+                    "episode_number": 4,
+                    "title": "Partea a patra: Jediul căzut",
+                    "description": "Hera își periclitează cariera ca să-și ajute prietenele, în timp ce ele înfruntă inamici.",
+                    "sources": [
+                        {
+                            "name": "Source 1",
+                            "quality": "1080p",
+                            "url": "https://ds2play.com/d/t7l9t1hk6jxm"
+                        },
+                        {
+                            "name": "Source 2",
+                            "quality": "720p",
+                            "url": "https://example.com/114461/s01e04_720p.mp4"
+                        },
+                        {
+                            "name": "Source 3",
+                            "quality": "480p",
+                            "url": "https://example.com/114461/s01e04_480p.mp4"
+                        }
+                    ],
+                    "subtitles": [
+                        {
+                            "language": "en",
+                            "url": "https://example.com/114461/subs/s01e04_en.srt"
+                        },
+                        {
+                            "language": "ro",
+                            "url": "https://example.com/114461/subs/s01e04_ro.srt"
+                        }
+                    ]
+                },
+                {
+                    "tmdb_id": 4502590,
+                    "episode_number": 5,
+                    "title": "Partea a cincea: Războinicul din umbră",
+                    "description": "Ahsoka își confruntă trecutul, în timp ce Hera și aliații ei întreprind o misiune de salvare.",
+                    "sources": [
+                        {
+                            "name": "Source 1",
+                            "quality": "1080p",
+                            "url": "https://ds2play.com/d/otnjwz4rzho7"
+                        },
+                        {
+                            "name": "Source 2",
+                            "quality": "720p",
+                            "url": "https://example.com/114461/s01e05_720p.mp4"
+                        },
+                        {
+                            "name": "Source 3",
+                            "quality": "480p",
+                            "url": "https://example.com/114461/s01e05_480p.mp4"
+                        }
+                    ],
+                    "subtitles": [
+                        {
+                            "language": "en",
+                            "url": "https://example.com/114461/subs/s01e05_en.srt"
+                        },
+                        {
+                            "language": "ro",
+                            "url": "https://example.com/114461/subs/s01e05_ro.srt"
+                        }
+                    ]
+                },
+                {
+                    "tmdb_id": 4502594,
+                    "episode_number": 6,
+                    "title": "Partea a șasea:  Foarte, foarte departe",
+                    "description": "Căutarea marelui amiral Thrawn se întinde dincolo de limitele galaxiei.",
+                    "sources": [
+                        {
+                            "name": "Source 1",
+                            "quality": "1080p",
+                            "url": "https://ds2play.com/d/sdbcmwlmrg2h"
+                        },
+                        {
+                            "name": "Source 2",
+                            "quality": "720p",
+                            "url": "https://example.com/114461/s01e06_720p.mp4"
+                        },
+                        {
+                            "name": "Source 3",
+                            "quality": "480p",
+                            "url": "https://example.com/114461/s01e06_480p.mp4"
+                        }
+                    ],
+                    "subtitles": [
+                        {
+                            "language": "en",
+                            "url": "https://example.com/114461/subs/s01e06_en.srt"
+                        },
+                        {
+                            "language": "ro",
+                            "url": "https://example.com/114461/subs/s01e06_ro.srt"
+                        }
+                    ]
+                },
+                {
+                    "tmdb_id": 4502598,
+                    "episode_number": 7,
+                    "title": "Partea a șaptea: Visuri și nebunie",
+                    "description": "Hera răspunde în fața Noii Republici iar într-un loc foarte, foarte îndepărtat are loc o reuniune.",
+                    "sources": [
+                        {
+                            "name": "Source 1",
+                            "quality": "1080p",
+                            "url": "https://ds2play.com/d/v1iw1ct4vjen"
+                        },
+                        {
+                            "name": "Source 2",
+                            "quality": "720p",
+                            "url": "https://example.com/114461/s01e07_720p.mp4"
+                        },
+                        {
+                            "name": "Source 3",
+                            "quality": "480p",
+                            "url": "https://example.com/114461/s01e07_480p.mp4"
+                        }
+                    ],
+                    "subtitles": [
+                        {
+                            "language": "en",
+                            "url": "https://example.com/114461/subs/s01e07_en.srt"
+                        },
+                        {
+                            "language": "ro",
+                            "url": "https://example.com/114461/subs/s01e07_ro.srt"
+                        }
+                    ]
+                },
+                {
+                    "tmdb_id": 4502602,
+                    "episode_number": 8,
+                    "title": "Partea a opta: Jediul, vrăjitoarea și războinicul",
+                    "description": "Eroinele se grăbesc să prevină evadarea marelui amiral Thrawn.",
+                    "sources": [
+                        {
+                            "name": "Source 1",
+                            "quality": "1080p",
+                            "url": "https://ds2play.com/d/bjn85kvaw7p7"
+                        },
+                        {
+                            "name": "Source 2",
+                            "quality": "720p",
+                            "url": "https://example.com/114461/s01e08_720p.mp4"
+                        },
+                        {
+                            "name": "Source 3",
+                            "quality": "480p",
+                            "url": "https://example.com/114461/s01e08_480p.mp4"
+                        }
+                    ],
+                    "subtitles": [
+                        {
+                            "language": "en",
+                            "url": "https://example.com/114461/subs/s01e08_en.srt"
+                        },
+                        {
+                            "language": "ro",
+                            "url": "https://example.com/114461/subs/s01e08_ro.srt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
