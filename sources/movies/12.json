@@ -1,0 +1,22 @@
+{
+    "tmdb": 12,
+    "title": "Finding Nemo",
+    "sources": [
+        {
+            "name": "[COLOR green]Vidhide[/COLOR]",
+            "url": "https://ryderjet.com/file/hit6844h1rxn",
+            "quality": "10800p"
+        },
+        {
+            "name": "[COLOR red]ok.ru[/COLOR]",
+            "url": "https://ok.ru/video/9036547820193",
+            "quality": "1080p"
+        }
+    ],
+    "subtitles": [
+        {
+            "language": "ro",
+            "subtitle": "https://derzis.xyz/sources/subs/12.vtt"
+        }
+    ]
+}
