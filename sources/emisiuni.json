@@ -1,50 +1,234 @@
 [
     {
         "title": "America Express",
-        "url": "https://derzis.xyz/sources/emisiuni/america_express.json"
+        "url": "https://derzis.xyz/sources/emisiuni/01.json"
     },
     {
         "title": "Asia Express",
-        "url": "https://derzis.xyz/sources/emisiuni/asia_express.json"
+        "url": "https://derzis.xyz/sources/emisiuni/02.json"
     },
     {
         "title": "Chef de râs",
-        "url": "https://derzis.xyz/sources/emisiuni/chef_de_ras.json"
+        "url": "https://derzis.xyz/sources/emisiuni/03.json"
     },
     {
         "title": "Chefi la Cuțite",
-        "url": "https://derzis.xyz/sources/emisiuni/chefi_la_cutite.json"
+        "url": "https://derzis.xyz/sources/emisiuni/04.json"
     },
     {
         "title": "Ești mai deștept decât un copil de clasa a V-a",
-        "url": "https://derzis.xyz/sources/emisiuni/esti_mai_destept_decat_un_copil_de_clasa_a_V_a.json"
+        "url": "https://derzis.xyz/sources/emisiuni/05.json"
     },
     {
         "title": "Hello Chef",
-        "url": "https://derzis.xyz/sources/emisiuni/hello_chef.json"
+        "url": "https://derzis.xyz/sources/emisiuni/06.json"
     },
     {
         "title": "Insula Iubirii",
-        "url": "https://derzis.xyz/sources/emisiuni/insula_iubirii.json"
+        "url": "https://derzis.xyz/sources/emisiuni/07.json"
     },
     {
         "title": "iUmor",
-        "url": "https://derzis.xyz/sources/emisiuni/iUmor.json"
+        "url": "https://derzis.xyz/sources/emisiuni/08.json"
     },
     {
         "title": "Măștile Iubirii",
-        "url": "https://derzis.xyz/sources/emisiuni/mastile_iubirii.json"
+        "url": "https://derzis.xyz/sources/emisiuni/09.json"
     },
     {
         "title": "Medicool",
-        "url": "https://derzis.xyz/sources/emisiuni/medicool.json"
+        "url": "https://derzis.xyz/sources/emisiuni/10.json"
     },
     {
         "title": "Mireasa",
-        "url": "https://derzis.xyz/sources/emisiuni/mireasa.json"
+        "url": "https://derzis.xyz/sources/emisiuni/11.json"
     },
     {
         "title": "Neața cu Răzvan și Dani",
-        "url": "https://derzis.xyz/sources/emisiuni/neata_cu_razvan_si_dani.json"
+        "url": "https://derzis.xyz/sources/emisiuni/12.json"
+    },
+    {
+        "title": "Podcastito Express",
+        "url": "https://derzis.xyz/sources/emisiuni/13.json"
+    },
+    {
+        "title": "Poftiți în Dobrogea",
+        "url": "https://derzis.xyz/sources/emisiuni/14.json"
+    },
+    {
+        "title": "Power Couple România",
+        "url": "https://derzis.xyz/sources/emisiuni/15.json"
+    },
+    {
+        "title": "Prețul cel Bun",
+        "url": "https://derzis.xyz/sources/emisiuni/16.json"
+    },
+    {
+        "title": "Provocarea Destinului",
+        "url": "https://derzis.xyz/sources/emisiuni/17.json"
+    },
+    {
+        "title": "Roata Vedetelor",
+        "url": "https://derzis.xyz/sources/emisiuni/18.json"
+    },
+    {
+        "title": "Splash! Vedete la Apă",
+        "url": "https://derzis.xyz/sources/emisiuni/19.json"
+    },
+    {
+        "title": "Te cunosc de Undeva",
+        "url": "https://derzis.xyz/sources/emisiuni/20.json"
+    },
+    {
+        "title": "Un Show Păcătos",
+        "url": "https://derzis.xyz/sources/emisiuni/21.json"
+    },
+    {
+        "title": "X-Factor",
+        "url": "https://derzis.xyz/sources/emisiuni/22.json"
+    },
+    {
+        "title": "Acces Direct",
+        "url": "https://derzis.xyz/sources/emisiuni/23.json"
+    },
+    {
+        "title": "Capriciile Iubirii",
+        "url": "https://derzis.xyz/sources/emisiuni/24.json"
+    },
+    {
+        "title": "Prodanca. Punct și de la capăt!",
+        "url": "https://derzis.xyz/sources/emisiuni/25.json"
+    },
+    {
+        "title": "40 de întrebări cu Denise Rifai",
+        "url": "https://derzis.xyz/sources/emisiuni/26.json"
+    },
+    {
+        "title": "Asta-i România",
+        "url": "https://derzis.xyz/sources/emisiuni/27.json"
+    },
+    {
+        "title": "Bravo! Ai stil",
+        "url": "https://derzis.xyz/sources/emisiuni/28.json"
+    },
+    {
+        "title": "Casa Iubirii",
+        "url": "https://derzis.xyz/sources/emisiuni/29.json"
+    },
+    {
+        "title": "Insula de 1 Milion",
+        "url": "https://derzis.xyz/sources/emisiuni/30.json"
+    },
+    {
+        "title": "Jocul Cuvintelor",
+        "url": "https://derzis.xyz/sources/emisiuni/31.json"
+    },
+    {
+        "title": "Ochii din Umbră",
+        "url": "https://derzis.xyz/sources/emisiuni/32.json"
+    },
+    {
+        "title": "Roata Norocului",
+        "url": "https://derzis.xyz/sources/emisiuni/33.json"
+    },
+    {
+        "title": "The Floor",
+        "url": "https://derzis.xyz/sources/emisiuni/34.json"
+    },
+    {
+        "title": "Tu urmezi",
+        "url": "https://derzis.xyz/sources/emisiuni/35.json"
+    },
+    {
+        "title": "Cronica Cârcotașilor",
+        "url": "https://derzis.xyz/sources/emisiuni/36.json"
+    },
+    {
+        "title": "Cursa Iubirii",
+        "url": "https://derzis.xyz/sources/emisiuni/37.json"
+    },
+    {
+        "title": "Flash Monden",
+        "url": "https://derzis.xyz/sources/emisiuni/38.json"
+    },
+    {
+        "title": "Fotball All Inclusiv cu Radu Banciu",
+        "url": "https://derzis.xyz/sources/emisiuni/39.json"
+    },
+    {
+        "title": "Notele lui Banciu",
+        "url": "https://derzis.xyz/sources/emisiuni/40.json"
+    },
+    {
+        "title": "Primii Câștigă",
+        "url": "https://derzis.xyz/sources/emisiuni/41.json"
+    },
+    {
+        "title": "Schimb de Mame",
+        "url": "https://derzis.xyz/sources/emisiuni/42.json"
+    },
+    {
+        "title": "Starea Nației",
+        "url": "https://derzis.xyz/sources/emisiuni/43.json"
+    },
+    {
+        "title": "SuperNanny",
+        "url": "https://derzis.xyz/sources/emisiuni/44.json"
+    },
+    {
+        "title": "World Wide Banciu",
+        "url": "https://derzis.xyz/sources/emisiuni/45.json"
+    },
+    {
+        "title": "Batem Palma",
+        "url": "https://derzis.xyz/sources/emisiuni/46.json"
+    },
+    {
+        "title": "Ce Spun Românii",
+        "url": "https://derzis.xyz/sources/emisiuni/47.json"
+    },
+    {
+        "title": "Imperiul Leilor",
+        "url": "https://derzis.xyz/sources/emisiuni/48.json"
+    },
+    {
+        "title": "Love Island",
+        "url": "https://derzis.xyz/sources/emisiuni/49.json"
+    },
+    {
+        "title": "Masterchef",
+        "url": "https://derzis.xyz/sources/emisiuni/50.json"
+    },
+    {
+        "title": "Masterchef - Restul e Plăcere",
+        "url": "https://derzis.xyz/sources/emisiuni/51.json"
+    },
+    {
+        "title": "România Te Iubesc!",
+        "url": "https://derzis.xyz/sources/emisiuni/52.json"
+    },
+    {
+        "title": "Românii Au Talent",
+        "url": "https://derzis.xyz/sources/emisiuni/53.json"
+    },
+    {
+        "title": "Săriți de pe Fix",
+        "url": "https://derzis.xyz/sources/emisiuni/54.json"
+    },
+    {
+        "title": "Șef sub acoperire",
+        "url": "https://derzis.xyz/sources/emisiuni/55.json"
+    },
+    {
+        "title": "Survivor România",
+        "url": "https://derzis.xyz/sources/emisiuni/56.json"
+    },
+    {
+        "title": "Visuri la Cheie",
+        "url": "https://derzis.xyz/sources/emisiuni/57.json"
+    },
+    {
+        "title": "Vocea Românie",
+        "url": "https://derzis.xyz/sources/emisiuni/58.json"
     }
 ]
