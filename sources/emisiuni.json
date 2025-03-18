@@ -1,1 +1,50 @@
-
+[
+    {
+        "title": "America Express",
+        "url": "https://derzis.xyz/sources/emisiuni/america_express.json"
+    },
+    {
+        "title": "Asia Express",
+        "url": "https://derzis.xyz/sources/emisiuni/asia_express.json"
+    },
+    {
+        "title": "Chef de râs",
+        "url": "https://derzis.xyz/sources/emisiuni/chef_de_ras.json"
+    },
+    {
+        "title": "Chefi la Cuțite",
+        "url": "https://derzis.xyz/sources/emisiuni/chefi_la_cutite.json"
+    },
+    {
+        "title": "Ești mai deștept decât un copil de clasa a V-a",
+        "url": "https://derzis.xyz/sources/emisiuni/esti_mai_destept_decat_un_copil_de_clasa_a_V_a.json"
+    },
+    {
+        "title": "Hello Chef",
+        "url": "https://derzis.xyz/sources/emisiuni/hello_chef.json"
+    },
+    {
+        "title": "Insula Iubirii",
+        "url": "https://derzis.xyz/sources/emisiuni/insula_iubirii.json"
+    },
+    {
+        "title": "iUmor",
+        "url": "https://derzis.xyz/sources/emisiuni/iUmor.json"
+    },
+    {
+        "title": "Măștile Iubirii",
+        "url": "https://derzis.xyz/sources/emisiuni/mastile_iubirii.json"
+    },
+    {
+        "title": "Medicool",
+        "url": "https://derzis.xyz/sources/emisiuni/medicool.json"
+    },
+    {
+        "title": "Mireasa",
+        "url": "https://derzis.xyz/sources/emisiuni/mireasa.json"
+    },
+    {
+        "title": "Neața cu Răzvan și Dani",
+        "url": "https://derzis.xyz/sources/emisiuni/neata_cu_razvan_si_dani.json"
+    }
+]
