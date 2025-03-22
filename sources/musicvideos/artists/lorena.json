@@ -1,0 +1,23 @@
+{
+  "artist": "Lorena",
+  "name": "Лорена",
+  "alias": ["Lorena", "Lorena Official"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Lorena Georgieva",
+  "birth_date": "1992-03-03",
+  "bio": "Lorena este una dintre cele mai populare cântărețe din noul val al muzicii pop-folk bulgărești. Cunoscută pentru vocea ei feminină și melodiile moderne, ea combină cu succes chalga clasică cu influențe trap și R&B.",
+  "active_years": "2015–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@LorenaOfficial",
+    "instagram": "https://www.instagram.com/lorena.official.bg/",
+    "facebook": "https://www.facebook.com/Lorena.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/lorena-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/lorena-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/lorena-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/lorena-fanart.jpg",
+  "musicbrainz_id": "d91cf6d1-5285-4c8a-bc3f-2f6ad194cd5e"
+}
