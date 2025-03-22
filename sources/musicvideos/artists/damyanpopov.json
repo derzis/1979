@@ -1,0 +1,23 @@
+{
+  "artist": "Damyan Popov",
+  "name": "Дамян Попов",
+  "alias": ["Damyan Popov", "Damian Popov"],
+  "country": "Bulgaria",
+  "genres": ["Pop", "Dance", "Ballad"],
+  "birth_name": "Damyan Popov",
+  "birth_date": "1984-10-29",
+  "bio": "Damyan Popov este un cântăreț bulgar de muzică pop și dance, cunoscut pentru stilul său rafinat și piesele cu influențe moderne. A devenit cunoscut în urma participării la 'Music Idol' și a continuat o carieră solo de succes cu numeroase hituri și colaborări.",
+  "active_years": "2008–prezent",
+  "labels": ["Monte Music", "Virginia Records"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DamyanPopovOfficial",
+    "instagram": "https://www.instagram.com/damyanpopov/",
+    "facebook": "https://www.facebook.com/DamyanPopov.Official"
+  },
+  "image": "https://monte.bg/images/artists/damyan-main.jpg",
+  "poster": "https://monte.bg/images/artists/damyan-poster.jpg",
+  "thumbnail": "https://monte.bg/images/artists/damyan-thumb.jpg",
+  "fanart": "https://monte.bg/images/artists/damyan-fanart.jpg",
+  "musicbrainz_id": "50b6e5f4-1ef8-4e90-9814-1e7024cc4212"
+}
