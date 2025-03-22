@@ -1,0 +1,23 @@
+{
+  "artist": "Simona Zagorova",
+  "name": "Симона Загорова",
+  "alias": ["Simona Zagorova", "Simona", "Simona Gloria Zagorova"],
+  "country": "Bulgaria",
+  "genres": ["Pop", "Pop-folk", "Ballad"],
+  "birth_name": "Simona Gloria Zagorova",
+  "birth_date": "1996-08-03",
+  "bio": "Simona Zagorova este o cântăreață bulgară, fiica renumitei interprete Gloaria. A moștenit talentul muzical al mamei sale și și-a construit un stil propriu în muzica pop și pop-folk, câștigând aprecierea publicului prin vocea sa clară și melodiile sensibile.",
+  "active_years": "2015–prezent",
+  "labels": ["Gloria Music", "Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SimonaZagorovaOfficial",
+    "instagram": "https://www.instagram.com/simona_zagorova/",
+    "facebook": "https://www.facebook.com/SimonaZagorova.Official"
+  },
+  "image": "https://gloriamusic.bg/images/simona-main.jpg",
+  "poster": "https://gloriamusic.bg/images/simona-poster.jpg",
+  "thumbnail": "https://gloriamusic.bg/images/simona-thumb.jpg",
+  "fanart": "https://gloriamusic.bg/images/simona-fanart.jpg",
+  "musicbrainz_id": "9d1b5e2e-8b6c-4e6c-9d01-3572df08a93c"
+}
