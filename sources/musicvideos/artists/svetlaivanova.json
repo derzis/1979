@@ -1,0 +1,23 @@
+{
+  "artist": "Svetla Ivanova",
+  "name": "Светла Иванова",
+  "alias": ["Svetla Ivanova", "Svetla", "Svetlana Ivanova"],
+  "country": "Bulgaria",
+  "genres": ["Pop", "Ballad", "Children's music", "Chillout"],
+  "birth_name": "Svetla Ivanova",
+  "birth_date": "1977-07-16",
+  "bio": "Svetla Ivanova este o cântăreață, autoare și profesoară de yoga din Bulgaria, cunoscută pentru stilul său calm, pozitiv și holistic. Pe lângă cariera muzicală, a lansat cărți pentru copii și promovează un stil de viață echilibrat.",
+  "active_years": "2002–prezent",
+  "labels": ["Monte Music", "Independent"],
+  "official_website": "https://svetlaivanova.com/",
+  "social": {
+    "youtube": "https://www.youtube.com/@SvetlaIvanovaOfficial",
+    "instagram": "https://www.instagram.com/svetla.ivanova.music/",
+    "facebook": "https://www.facebook.com/SvetlaIvanova.Official"
+  },
+  "image": "https://svetlaivanova.com/wp-content/uploads/2021/06/svetla-main.jpg",
+  "poster": "https://svetlaivanova.com/wp-content/uploads/2021/06/svetla-poster.jpg",
+  "thumbnail": "https://svetlaivanova.com/wp-content/uploads/2021/06/svetla-thumb.jpg",
+  "fanart": "https://svetlaivanova.com/wp-content/uploads/2021/06/svetla-fanart.jpg",
+  "musicbrainz_id": "4c8e05b5-7b3c-4e01-a5d3-2d8936bcdd6a"
+}
