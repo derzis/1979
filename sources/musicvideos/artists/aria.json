@@ -1,0 +1,23 @@
+{
+  "artist": "Aria",
+  "name": "Ария",
+  "alias": ["Aria", "Galina Dimitrova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Galina Dimitrova",
+  "birth_date": "1996-03-22",
+  "bio": "Aria este una dintre cele mai promițătoare artiste ale noii generații pop-folk din Bulgaria. Cunoscută pentru imaginea sa senzuală și vocea puternică, Aria a lansat rapid hituri care au cucerit publicul tânăr și a colaborat cu artiști de top din industrie.",
+  "active_years": "2019–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/aria/",
+  "social": {
+    "youtube": "https://www.youtube.com/@AriaOfficial",
+    "instagram": "https://www.instagram.com/aria.official.bg/",
+    "facebook": "https://www.facebook.com/Aria.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/aria-main.jpg",
+  "poster": "https://payner.bg/images/artists/aria-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/aria-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/aria-fanart.jpg",
+  "musicbrainz_id": "26bda5fd-4a4b-4c91-b356-07a1c14d3f28"
+}
