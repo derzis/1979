@@ -1,0 +1,23 @@
+{
+  "artist": "Tenyo Gogov",
+  "name": "Теньо Гогов",
+  "alias": ["Tenyo Gogov", "Tenyo", "Теньо"],
+  "country": "Bulgaria",
+  "genres": ["Pop", "Ballad", "Pop-folk"],
+  "birth_name": "Tenyo Gogov",
+  "birth_date": "1991-05-04",
+  "bio": "Tenyo Gogov este un cântăreț și compozitor bulgar cunoscut publicului larg în urma participării la emisiunea 'The Voice of Bulgaria'. Stilul său variază între balade pop și influențe pop-folk moderne, atrăgând prin sensibilitate și rafinament.",
+  "active_years": "2012–prezent",
+  "labels": ["Monte Music", "Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@TenyoGogovOfficial",
+    "instagram": "https://www.instagram.com/tenyogogov/",
+    "facebook": "https://www.facebook.com/TenyoGogov.Official"
+  },
+  "image": "https://monte.bg/images/artists/tenyogogov-main.jpg",
+  "poster": "https://monte.bg/images/artists/tenyogogov-poster.jpg",
+  "thumbnail": "https://monte.bg/images/artists/tenyogogov-thumb.jpg",
+  "fanart": "https://monte.bg/images/artists/tenyogogov-fanart.jpg",
+  "musicbrainz_id": "f1749e7d-2ae3-4fcb-a321-80f66a9cd18b"
+}
