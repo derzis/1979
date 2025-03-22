@@ -1,0 +1,23 @@
+{
+  "artist": "Denmaro",
+  "name": "Денмаро",
+  "alias": ["Denmaro", "Denmaro Official"],
+  "country": "Bulgaria",
+  "genres": ["Trap", "Urban", "Pop-folk"],
+  "birth_name": "Denislav Marinov",
+  "birth_date": "1998-02-18",
+  "bio": "Denmaro este un artist bulgar din noul val muzical, care combină trap, urban și pop-folk într-un stil distinctiv. Cunoscut pentru prezența sa pe rețelele sociale și colaborările cu artiști precum Diona și Kamen, a devenit rapid popular printre tinerii din Bulgaria.",
+  "active_years": "2020–prezent",
+  "labels": ["Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DenmaroOfficial",
+    "instagram": "https://www.instagram.com/denmaro.official/",
+    "facebook": "https://www.facebook.com/Denmaro.Official.Page"
+  },
+  "image": "https://denmaro.bg/images/denmaro-main.jpg",
+  "poster": "https://denmaro.bg/images/denmaro-poster.jpg",
+  "thumbnail": "https://denmaro.bg/images/denmaro-thumb.jpg",
+  "fanart": "https://denmaro.bg/images/denmaro-fanart.jpg",
+  "musicbrainz_id": "15a79b78-6d56-4c8f-a2cc-1c032144a5a4"
+}
