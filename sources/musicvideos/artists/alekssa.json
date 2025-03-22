@@ -1,0 +1,23 @@
+{
+  "artist": "Alekssa",
+  "name": "Алексa",
+  "alias": ["Alekssa", "Alexa", "Aleksa"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Aleksandra Petkova",
+  "birth_date": "1998-05-14",
+  "bio": "Alekssa este o artistă pop-folk din Bulgaria, parte din noul val trap-folk. Este cunoscută pentru stilul modern, versurile îndrăznețe și aparițiile spectaculoase din videoclipuri. Cu un mix de chalga clasic și trap contemporan, Alekssa atrage rapid popularitate.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@AlekssaOfficial",
+    "instagram": "https://www.instagram.com/alekssa.official.bg/",
+    "facebook": "https://www.facebook.com/Alekssa.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/alekssa-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/alekssa-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/alekssa-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/alekssa-fanart.jpg",
+  "musicbrainz_id": "0dc0b4cd-7f21-46f1-a16e-f1c0bbd91459"
+}
