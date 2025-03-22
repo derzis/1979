@@ -1,0 +1,23 @@
+{
+  "artist": "DJ Ned",
+  "name": "ДЖ НЕД",
+  "alias": ["DJ Ned", "Nedko Petrov"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Club", "Remix"],
+  "birth_name": "Nedko Petrov",
+  "birth_date": "1990-10-02",
+  "bio": "DJ Ned este un producător, DJ și remix artist bulgar cunoscut pentru colaborările sale cu nume mari din scena pop-folk și trap-folk. A devenit popular prin remixuri virale și participări la videoclipuri muzicale alături de artiști ca Danna, Simona și Malkata.",
+  "active_years": "2018–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DJNedOfficial",
+    "instagram": "https://www.instagram.com/djned.official/",
+    "facebook": "https://www.facebook.com/DJNed.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/djned-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/djned-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/djned-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/djned-fanart.jpg",
+  "musicbrainz_id": "f7fc2c30-981e-4ef4-9465-9fc8d3dfb9c7"
+}
