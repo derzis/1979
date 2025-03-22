@@ -1,0 +1,23 @@
+{
+  "artist": "Djulia",
+  "name": "Джулия",
+  "alias": ["Djulia", "Julia", "Dzhuliya"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Dance"],
+  "birth_name": "Djulia Ivanova",
+  "birth_date": "1993-11-13",
+  "bio": "Djulia este o cântăreață bulgară de muzică pop-folk, cunoscută pentru piesele sale romantice și stilul elegant. A devenit populară prin colaborări cu artiști din industria chalga și este recunoscută pentru timbrul său vocal delicat și videoclipurile produse cu rafinament.",
+  "active_years": "2015–prezent",
+  "labels": ["Hit Mix Music", "Payner Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DjuliaOfficial",
+    "instagram": "https://www.instagram.com/djulia.official/",
+    "facebook": "https://www.facebook.com/Djulia.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/djulia-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/djulia-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/djulia-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/djulia-fanart.jpg",
+  "musicbrainz_id": "71b4b2c7-fd0b-4f89-bc5e-1bc2c423f632"
+}
