@@ -1,0 +1,23 @@
+{
+  "artist": "Shtilyan",
+  "name": "Щилиян",
+  "alias": ["Shtilyan", "Shtilian", "Щили"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Shtilyan Petrov",
+  "birth_date": "1998-04-12",
+  "bio": "Shtilyan este un artist din noul val al scenei pop-folk bulgărești, cunoscut pentru stilul său modern și combinația de influențe trap cu muzica chalga. Cu versuri directe și piese de club, a atras rapid atenția publicului tânăr.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@ShtilyanOfficial",
+    "instagram": "https://www.instagram.com/shtilyan.official.bg/",
+    "facebook": "https://www.facebook.com/Shtilyan.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/shtilyan-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/shtilyan-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/shtilyan-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/shtilyan-fanart.jpg",
+  "musicbrainz_id": "3eb0b911-7f88-49dc-8b74-1a20be6a4d98"
+}
