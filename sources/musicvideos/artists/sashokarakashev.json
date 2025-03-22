@@ -1,0 +1,23 @@
+{
+  "artist": "Sasho Karakashev",
+  "name": "Сашо Каракашев",
+  "alias": ["Sasho Karakashev", "Sasho K."],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Aleksandar Karakashev",
+  "birth_date": "1983-03-15",
+  "bio": "Sasho Karakashev este un interpret bulgar de muzică pop-folk și folk tradițional. Cunoscut pentru vocea sa gravă și melodiile care evocă teme legate de viața de zi cu zi, familie și dragoste, Sasho este apreciat pentru autenticitate și stilul său sobru.",
+  "active_years": "2010–prezent",
+  "labels": ["Diapason Records", "Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SashoKarakashevOfficial",
+    "instagram": "https://www.instagram.com/sasho.karakashev/",
+    "facebook": "https://www.facebook.com/SashoKarakashev.Official"
+  },
+  "image": "https://diapasonrecords.com/images/artists/sashokarakashev-main.jpg",
+  "poster": "https://diapasonrecords.com/images/artists/sashokarakashev-poster.jpg",
+  "thumbnail": "https://diapasonrecords.com/images/artists/sashokarakashev-thumb.jpg",
+  "fanart": "https://diapasonrecords.com/images/artists/sashokarakashev-fanart.jpg",
+  "musicbrainz_id": "8e9d23aa-005e-45e3-8ff2-68e2f4dc573f"
+}
