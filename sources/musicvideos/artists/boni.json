@@ -1,0 +1,23 @@
+{
+  "artist": "Boni",
+  "name": "Бони",
+  "alias": ["Boni", "Bonka Ilieva Bocheva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Bonka Ilieva Bocheva",
+  "birth_date": "1973-10-05",
+  "bio": "Boni este o cântăreață legendară a muzicii pop-folk bulgare. Cu o carieră de peste două decenii, este cunoscută pentru vocea sa puternică și pentru melodiile cu influențe tradiționale. Este una dintre cele mai respectate artiste din genul chalga.",
+  "active_years": "1994–prezent",
+  "labels": ["Payner Music", "Sunny Music"],
+  "official_website": "https://payner.bg/artists/boni/",
+  "social": {
+    "youtube": "https://www.youtube.com/@BoniOfficial",
+    "instagram": "https://www.instagram.com/boni.official.bg/",
+    "facebook": "https://www.facebook.com/Boni.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/boni-main.jpg",
+  "poster": "https://payner.bg/images/artists/boni-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/boni-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/boni-fanart.jpg",
+  "musicbrainz_id": "12e6e77d-0eae-4db6-bfd2-2c1045f04c2e"
+}
