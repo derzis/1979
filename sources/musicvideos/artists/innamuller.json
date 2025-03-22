@@ -1,0 +1,23 @@
+{
+  "artist": "Inna Müller",
+  "name": "Inna Müller",
+  "alias": ["Inna Müller", "Inna Mueller", "Müller"],
+  "country": "Germany",
+  "genres": ["Chanson", "Pop", "Cabaret", "Comedy"],
+  "birth_name": "Inna Müller",
+  "birth_date": "1965-07-25",
+  "bio": "Inna Müller este o cântăreață, prezentatoare TV și scriitoare germană, cunoscută pentru umorul ei, emisiunile de televiziune de succes și stilul muzical unic ce combină cabaretul cu pop-ul german. Emisiunea sa „Inas Nacht” a devenit emblematică în media germană.",
+  "active_years": "2000–prezent",
+  "labels": ["Sony Music", "105 Music"],
+  "official_website": "https://www.innamueller.de/",
+  "social": {
+    "youtube": "https://www.youtube.com/@InnaMuellerOfficial",
+    "instagram": "https://www.instagram.com/inna_mueller_official/",
+    "facebook": "https://www.facebook.com/InnaMueller.Official"
+  },
+  "image": "https://www.innamueller.de/assets/images/inna-mueller-main.jpg",
+  "poster": "https://www.innamueller.de/assets/images/inna-mueller-poster.jpg",
+  "thumbnail": "https://www.innamueller.de/assets/images/inna-mueller-thumb.jpg",
+  "fanart": "https://www.innamueller.de/assets/images/inna-mueller-fanart.jpg",
+  "musicbrainz_id": "1c9c9e9c-4e53-4f2b-96c5-6e0de1918c38"
+}
