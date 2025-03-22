@@ -1,0 +1,23 @@
+{
+  "artist": "Ivelina Koleva",
+  "name": "Ивелина Колева",
+  "alias": ["Ivelina Koleva", "Iva Koleva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Folk", "Chalga"],
+  "birth_name": "Ivelina Koleva",
+  "birth_date": "1976-12-18",
+  "bio": "Ivelina Koleva este o interpretă de muzică folclorică și pop-folk din Bulgaria, cunoscută pentru repertoriul ei tradițional și influența în păstrarea muzicii bulgărești autentice. Este sora celebrei cântărețe Toni Dacheva.",
+  "active_years": "2001–prezent",
+  "labels": ["Diapason Records"],
+  "official_website": "https://diapasonrecords.com/ivelina-koleva",
+  "social": {
+    "youtube": "https://www.youtube.com/@IvelinaKolevaOfficial",
+    "instagram": "https://www.instagram.com/ivelina.koleva.official/",
+    "facebook": "https://www.facebook.com/IvelinaKoleva.Official.Page"
+  },
+  "image": "https://diapasonrecords.com/images/artists/ivelinakoleva-main.jpg",
+  "poster": "https://diapasonrecords.com/images/artists/ivelinakoleva-poster.jpg",
+  "thumbnail": "https://diapasonrecords.com/images/artists/ivelinakoleva-thumb.jpg",
+  "fanart": "https://diapasonrecords.com/images/artists/ivelinakoleva-fanart.jpg",
+  "musicbrainz_id": "3ed6ea6e-b4d4-49d2-8c3c-cf155a5ac7a3"
+}
