@@ -1,0 +1,23 @@
+{
+  "artist": "Ernim Ibrahimi",
+  "name": "Ерним Ибрахими",
+  "alias": ["Ernim Ibrahimi", "Ernim", "Ерним"],
+  "country": "North Macedonia",
+  "genres": ["Pop-folk", "Chalga", "Balkan", "Folk"],
+  "birth_name": "Ernim Ibrahimi",
+  "birth_date": "1994-10-21",
+  "bio": "Ernim Ibrahimi este un cântăreț originar din Macedonia de Nord, cunoscut pentru piesele sale emoționale cu influențe pop-folk și balcanice. A devenit cunoscut în Bulgaria și Albania datorită vocii sale calde și hiturilor de dragoste.",
+  "active_years": "2018–prezent",
+  "labels": ["Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@ErnimIbrahimiOfficial",
+    "instagram": "https://www.instagram.com/ernim.ibrahimi/",
+    "facebook": "https://www.facebook.com/ErnimIbrahimi.Official"
+  },
+  "image": "https://balkanika.tv/images/artists/ernimibrahimi-main.jpg",
+  "poster": "https://balkanika.tv/images/artists/ernimibrahimi-poster.jpg",
+  "thumbnail": "https://balkanika.tv/images/artists/ernimibrahimi-thumb.jpg",
+  "fanart": "https://balkanika.tv/images/artists/ernimibrahimi-fanart.jpg",
+  "musicbrainz_id": "a14399a3-c676-440f-8459-891fffd2cc61"
+}
