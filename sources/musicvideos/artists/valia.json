@@ -1,0 +1,23 @@
+{
+  "artist": "Valia",
+  "name": "Валя",
+  "alias": ["Valia", "Valya", "Валя"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Valentina Georgieva",
+  "birth_date": "1978-04-23",
+  "bio": "Valia este o cântăreață de muzică pop-folk și folclor din Bulgaria, cunoscută pentru timbrul său dulce și piesele sensibile. Cu o carieră de peste două decenii, este apreciată pentru melodiile romantice și stilul său elegant.",
+  "active_years": "1999–prezent",
+  "labels": ["Ara Music", "Sunny Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@ValiaOfficial",
+    "instagram": "https://www.instagram.com/valia.official.bg/",
+    "facebook": "https://www.facebook.com/Valia.Official.Page"
+  },
+  "image": "https://aramusic.bg/images/artists/valia-main.jpg",
+  "poster": "https://aramusic.bg/images/artists/valia-poster.jpg",
+  "thumbnail": "https://aramusic.bg/images/artists/valia-thumb.jpg",
+  "fanart": "https://aramusic.bg/images/artists/valia-fanart.jpg",
+  "musicbrainz_id": "3bce1cb7-bcfc-49db-b5ce-0b9de70b3461"
+}
