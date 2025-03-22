@@ -1,0 +1,23 @@
+{
+  "artist": "Divna",
+  "name": "Дивна",
+  "alias": ["Divna", "Divna Official", "Дивна БГ"],
+  "country": "Bulgaria",
+  "genres": ["Pop", "R&B", "Dance", "Soul"],
+  "birth_name": "Divna Lazarova",
+  "birth_date": "1997-09-10",
+  "bio": "Divna este o cântăreață pop și R&B din Bulgaria, devenită cunoscută după participarea la show-ul 'Music Idol'. Este apreciată pentru vocea sa sensibilă și controlul vocal impecabil, lansând hituri care au cucerit topurile muzicale din Bulgaria.",
+  "active_years": "2012–prezent",
+  "labels": ["Monte Music", "Virginia Records"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DivnaOfficial",
+    "instagram": "https://www.instagram.com/divna.music/",
+    "facebook": "https://www.facebook.com/Divna.Official.Page"
+  },
+  "image": "https://virginiarecords.com/wp-content/uploads/2022/01/divna-main.jpg",
+  "poster": "https://virginiarecords.com/wp-content/uploads/2022/01/divna-poster.jpg",
+  "thumbnail": "https://virginiarecords.com/wp-content/uploads/2022/01/divna-thumb.jpg",
+  "fanart": "https://virginiarecords.com/wp-content/uploads/2022/01/divna-fanart.jpg",
+  "musicbrainz_id": "61e2973a-70f3-4979-9185-e5e3b7d7ac83"
+}
