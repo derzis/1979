@@ -1,0 +1,23 @@
+{
+  "artist": "Iveta",
+  "name": "Ивета",
+  "alias": ["Iveta", "Iveta Official", "Ивета БГ"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Iveta Koleva",
+  "birth_date": "2000-09-05",
+  "bio": "Iveta este o artistă din noul val al muzicii pop-folk bulgărești. Cu un stil modern, influențe trap și o imagine fresh, Iveta a reușit să atragă atenția publicului prin videoclipuri îndrăznețe și colaborări cu artiști consacrați.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@IvetaOfficial",
+    "instagram": "https://www.instagram.com/iveta.official.bg/",
+    "facebook": "https://www.facebook.com/Iveta.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/iveta-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/iveta-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/iveta-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/iveta-fanart.jpg",
+  "musicbrainz_id": "5cb352cc-7f01-4f2a-ae8e-e9b6976e9dc7"
+}
