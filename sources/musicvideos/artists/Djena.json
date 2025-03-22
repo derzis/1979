@@ -1,0 +1,23 @@
+{
+  "artist": "Djena",
+  "name": "Джена",
+  "alias": ["Djena", "Dzhena", "Desislava Valentinova Nedelcheva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Desislava Valentinova Nedelcheva",
+  "birth_date": "1985-07-03",
+  "bio": "Djena este o cântăreață de muzică pop-folk din Bulgaria, cunoscută pentru vocea ei puternică și timbrul distinctiv. A debutat în anii 2000 și a câștigat popularitate rapid, devenind una dintre cele mai iubite interprete ale genului. De-a lungul carierei sale, a lansat numeroase hituri și a colaborat cu artiști importanți.",
+  "active_years": "2007–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/djena/",
+  "social": {
+    "youtube": "https://www.youtube.com/@DjenaOfficial",
+    "instagram": "https://www.instagram.com/djena.official/",
+    "facebook": "https://www.facebook.com/Djena.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/djena-main.jpg",
+  "poster": "https://payner.bg/images/artists/djena-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/djena-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/djena-fanart.jpg",
+  "musicbrainz_id": "c497ec2a-f1d4-45e7-9a37-9ec95ea6513a"
+}
