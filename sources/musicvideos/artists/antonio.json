@@ -1,0 +1,23 @@
+{
+  "artist": "Antonio",
+  "name": "Антонио",
+  "alias": ["Antonio", "Antonio Official", "Антонио"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Antonio Dimitrov",
+  "birth_date": "1996-05-11",
+  "bio": "Antonio este un cântăreț pop-folk din Bulgaria care face parte din noul val chalga. Cunoscut pentru stilul său modern, a colaborat cu artiști tineri și a câștigat rapid popularitate în rândul publicului prin videoclipuri fresh și piese de club.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@AntonioOfficial",
+    "instagram": "https://www.instagram.com/antonio.official.bg/",
+    "facebook": "https://www.facebook.com/Antonio.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/antonio-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/antonio-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/antonio-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/antonio-fanart.jpg",
+  "musicbrainz_id": "f9e2f192-7a3d-4e2c-a4f1-cd4d76a7b7e9"
+}
