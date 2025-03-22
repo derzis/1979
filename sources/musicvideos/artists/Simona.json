@@ -1,0 +1,23 @@
+{
+  "artist": "Simona",
+  "name": "Симона",
+  "alias": ["Simona", "Simona Ivanova", "Simona Plovdiv"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Simona Ivanova",
+  "birth_date": "2000-11-26",
+  "bio": "Simona este o tânără cântăreață bulgară de muzică pop-folk și trap-folk, cunoscută pentru stilul ei modern și aparițiile pline de atitudine. Face parte din noul val de artiști care redefinesc muzica chalga prin fuziuni cu influențe urbane.",
+  "active_years": "2019–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SimonaOfficial",
+    "instagram": "https://www.instagram.com/simona.official.bg/",
+    "facebook": "https://www.facebook.com/Simona.Official.Bulgaria"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/simona-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/simona-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/simona-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/simona-fanart.jpg",
+  "musicbrainz_id": "06ec77d3-8411-499c-b6c3-8c703e2b6c30"
+}
