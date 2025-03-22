@@ -1,0 +1,23 @@
+{
+  "artist": "Teodor",
+  "name": "Теодор",
+  "alias": ["Teodor", "Teodor Official", "Тео"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Ballad"],
+  "birth_name": "Teodor Petrov",
+  "birth_date": "1984-04-01",
+  "bio": "Teodor este un cântăreț bulgar de muzică pop-folk, cunoscut pentru baladele sale romantice și prezența elegantă pe scenă. A fost activ mai ales în anii 2000, lansând hituri iubite de publicul fan al genului chalga tradițional.",
+  "active_years": "2003–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@TeodorOfficial",
+    "instagram": "https://www.instagram.com/teodor.official.bg/",
+    "facebook": "https://www.facebook.com/Teodor.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/teodor-main.jpg",
+  "poster": "https://payner.bg/images/artists/teodor-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/teodor-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/teodor-fanart.jpg",
+  "musicbrainz_id": "d0cb264c-d0d5-4c67-9fd8-b0bb3a34b6d3"
+}
