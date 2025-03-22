@@ -1,0 +1,23 @@
+{
+  "artist": "Dimana",
+  "name": "Димана",
+  "alias": ["Dimana", "Dimana Popova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Dance"],
+  "birth_name": "Dimana Popova",
+  "birth_date": "1984-01-18",
+  "bio": "Dimana este o cântăreață bulgară de muzică pop-folk, cunoscută pentru stilul ei elegant și vocea expresivă. A debutat în anii 2000 și a devenit rapid una dintre cele mai apreciate prezențe din scena chalga, fiind asociată cu hituri ritmate și videoclipuri stilizate.",
+  "active_years": "2006–prezent",
+  "labels": ["Ara Music", "Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DimanaOfficial",
+    "instagram": "https://www.instagram.com/dimana.official/",
+    "facebook": "https://www.facebook.com/Dimana.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/dimana-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/dimana-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/dimana-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/dimana-fanart.jpg",
+  "musicbrainz_id": "ffb1a03d-17fc-489c-9a2f-645c0b1cfd71"
+}
