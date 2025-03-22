@@ -1,0 +1,23 @@
+{
+  "artist": "Ani Hoang",
+  "name": "Ани Хоанг",
+  "alias": ["Ani Hoang", "Ani Huang", "Ani Nguyen"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Dance"],
+  "birth_name": "Ani Hoang Nguyen",
+  "birth_date": "1991-08-01",
+  "bio": "Ani Hoang este o cântăreață bulgară cu origini vietnameze, cunoscută pentru stilul său exotic și aparițiile spectaculoase în muzica pop-folk. A devenit populară în anii 2010 și este apreciată pentru vocea ei distinctivă și imaginea modernă.",
+  "active_years": "2011–prezent",
+  "labels": ["Sunny Music", "Ara Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@AniHoangOfficial",
+    "instagram": "https://www.instagram.com/anihoang_official/",
+    "facebook": "https://www.facebook.com/AniHoang.Official.Page"
+  },
+  "image": "https://aramusic.bg/images/artists/anihoang-main.jpg",
+  "poster": "https://aramusic.bg/images/artists/anihoang-poster.jpg",
+  "thumbnail": "https://aramusic.bg/images/artists/anihoang-thumb.jpg",
+  "fanart": "https://aramusic.bg/images/artists/anihoang-fanart.jpg",
+  "musicbrainz_id": "a44c5c48-51a5-4fe1-8612-558372eb3b3d"
+}
