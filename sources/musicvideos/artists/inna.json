@@ -1,0 +1,24 @@
+{
+  "artist": "Inna",
+  "name": "Inna",
+  "alias": ["Inna", "Elena Alexandra Apostoleanu"],
+  "country": "Romania",
+  "genres": ["Dance", "Pop", "House", "EDM"],
+  "birth_name": "Elena Alexandra Apostoleanu",
+  "birth_date": "1986-10-16",
+  "bio": "Inna este una dintre cele mai de succes cântărețe din România pe plan internațional. A devenit faimoasă cu hitul 'Hot' și a dominat topurile din Europa și America Latină cu un stil dance-pop energic și colaborări internaționale de marcă.",
+  "active_years": "2008–prezent",
+  "labels": ["Global Records", "Roton", "Ultra Music"],
+  "official_website": "https://www.innaofficial.com/",
+  "social": {
+    "youtube": "https://www.youtube.com/@Inna",
+    "instagram": "https://www.instagram.com/inna/",
+    "facebook": "https://www.facebook.com/Inna",
+    "twitter": "https://twitter.com/inna_ro"
+  },
+  "image": "https://innaofficial.com/assets/images/inna-main.jpg",
+  "poster": "https://innaofficial.com/assets/images/inna-poster.jpg",
+  "thumbnail": "https://innaofficial.com/assets/images/inna-thumb.jpg",
+  "fanart": "https://innaofficial.com/assets/images/inna-fanart.jpg",
+  "musicbrainz_id": "fbff6d10-5759-41f2-b136-38a7a198a3cc"
+}
