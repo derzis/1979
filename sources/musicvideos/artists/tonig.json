@@ -1,0 +1,23 @@
+{
+  "artist": "Toni G",
+  "name": "Тони Джи",
+  "alias": ["Toni G", "Tony G", "Toni Gee"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Club"],
+  "birth_name": "Toni Georgiev",
+  "birth_date": "1993-08-07",
+  "bio": "Toni G este un cântăreț și producător din Bulgaria cunoscut pentru piesele sale moderne ce combină trap cu pop-folk. A colaborat cu numeroși artiști din scena chalga și este apreciat pentru vibe-ul său urban și ritmurile de club.",
+  "active_years": "2018–prezent",
+  "labels": ["Hit Mix Music", "Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@ToniGOfficial",
+    "instagram": "https://www.instagram.com/toni.g.official/",
+    "facebook": "https://www.facebook.com/ToniG.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/tonig-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/tonig-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/tonig-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/tonig-fanart.jpg",
+  "musicbrainz_id": "7284b8ea-36a2-469f-b285-9eec188a9c89"
+}
