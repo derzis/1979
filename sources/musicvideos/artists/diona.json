@@ -1,0 +1,23 @@
+{
+  "artist": "Diona",
+  "name": "Диона",
+  "alias": ["Diona", "Diona Ivanova", "Denislava Ivanova"],
+  "country": "Bulgaria",
+  "genres": ["Trap-folk", "Pop-folk", "Rap"],
+  "birth_name": "Denislava Ivanova",
+  "birth_date": "1994-12-09",
+  "bio": "Diona este o artistă din Bulgaria cunoscută pentru fuziunea dintre trap, pop-folk și rap. Inițial activă în hip-hop-ul underground, a trecut treptat spre scena comercială, devenind una dintre cele mai vocale și controversate figuri ale noului val muzical bulgar.",
+  "active_years": "2016–prezent",
+  "labels": ["Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DionaOfficial",
+    "instagram": "https://www.instagram.com/diona.official/",
+    "facebook": "https://www.facebook.com/Diona.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/diona-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/diona-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/diona-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/diona-fanart.jpg",
+  "musicbrainz_id": "f3de5e92-09ed-4a5f-a1e3-0d1c84be930f"
+}
