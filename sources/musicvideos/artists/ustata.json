@@ -1,0 +1,23 @@
+{
+  "artist": "Ustata",
+  "name": "Устата",
+  "alias": ["Ustata", "Ustata", "Krassimir Milev"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Rap", "Chalga", "Comedy"],
+  "birth_name": "Krassimir Milev",
+  "birth_date": "1978-10-28",
+  "bio": "Ustata este un artist versatil din Bulgaria, cunoscut pentru combinația inedită dintre muzica pop-folk și rap. Pe lângă muzică, este și o figură media cunoscută pentru umorul său și aparițiile televizate. A colaborat cu numeroși artiști, fiind apreciat pentru stilul său unic.",
+  "active_years": "2001–prezent",
+  "labels": ["Payner Music", "Sunny Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@UstataOfficial",
+    "instagram": "https://www.instagram.com/ustata.official/",
+    "facebook": "https://www.facebook.com/Ustata.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/ustata-main.jpg",
+  "poster": "https://payner.bg/images/artists/ustata-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/ustata-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/ustata-fanart.jpg",
+  "musicbrainz_id": "a5a1df8d-4ef9-47ff-9b5c-96f844cb0635"
+}
