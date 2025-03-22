@@ -1,0 +1,23 @@
+{
+  "artist": "Maria & Magdalena Filatovi",
+  "name": "Мария и Магдалена Филатови",
+  "alias": ["Maria & Magdalena Filatovi", "Filatovi Sisters", "Сестрите Филатови"],
+  "country": "Bulgaria",
+  "genres": ["Folk", "Pop-folk", "Ethno"],
+  "birth_name": "Maria Filatova și Magdalena Filatova",
+  "birth_date": "1980-02-11",
+  "bio": "Maria și Magdalena Filatovi sunt un duet folcloric din Bulgaria, cunoscut pentru interpretările lor armonioase de muzică tradițională bulgărească și pop-folk. Surorile au cucerit publicul cu rafinamentul și autenticitatea interpretărilor lor.",
+  "active_years": "2001–prezent",
+  "labels": ["Payner Music", "Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@FilatoviSistersOfficial",
+    "instagram": "https://www.instagram.com/filatovi.official/",
+    "facebook": "https://www.facebook.com/FilatoviSisters.Official"
+  },
+  "image": "https://payner.bg/images/artists/filatovi-main.jpg",
+  "poster": "https://payner.bg/images/artists/filatovi-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/filatovi-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/filatovi-fanart.jpg",
+  "musicbrainz_id": "13ff9bde-98c4-41b8-b201-bc8ec59ecdf7"
+}
