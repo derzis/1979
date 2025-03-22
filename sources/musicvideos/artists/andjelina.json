@@ -1,0 +1,23 @@
+{
+  "artist": "Andjelina",
+  "name": "Анђелина",
+  "alias": ["Andjelina", "Anđelina", "Andelina"],
+  "country": "Serbia",
+  "genres": ["Pop", "R&B", "Trap", "Balkan"],
+  "birth_name": "Anđela Vujović",
+  "birth_date": "1996-11-16",
+  "bio": "Andjelina este o artistă sârbă care a devenit rapid una dintre cele mai promițătoare voci ale muzicii urbane balcanice. Cu un stil care îmbină pop, trap și influențe R&B, ea a cucerit publicul tânăr prin autenticitate și versuri sensibile.",
+  "active_years": "2020–prezent",
+  "labels": ["IDJTunes"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@AndjelinaOfficial",
+    "instagram": "https://www.instagram.com/andjelina__/",
+    "facebook": "https://www.facebook.com/Andjelina.Official.Page"
+  },
+  "image": "https://idjphotos.b-cdn.net/artists/andjelina-main.jpg",
+  "poster": "https://idjphotos.b-cdn.net/artists/andjelina-poster.jpg",
+  "thumbnail": "https://idjphotos.b-cdn.net/artists/andjelina-thumb.jpg",
+  "fanart": "https://idjphotos.b-cdn.net/artists/andjelina-fanart.jpg",
+  "musicbrainz_id": "8dc93c37-1399-47c0-8261-1b251f12c394"
+}
