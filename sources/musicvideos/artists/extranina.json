@@ -1,0 +1,23 @@
+{
+  "artist": "Extra Nina",
+  "name": "Екстра Нина",
+  "alias": ["Extra Nina", "Ekstra Nina", "Nina Ivanova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Nina Ivanova",
+  "birth_date": "1972-03-22",
+  "bio": "Extra Nina este una dintre primele și cele mai distinctive voci din muzica chalga din Bulgaria. Activă încă din anii '90, a devenit celebră pentru stilul provocator și melodiile sale puternice. Este considerată o pionieră a genului pop-folk.",
+  "active_years": "1994–prezent",
+  "labels": ["Ara Music", "Sunny Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@ExtraNinaOfficial",
+    "instagram": "https://www.instagram.com/extra.nina/",
+    "facebook": "https://www.facebook.com/ExtraNina.Official"
+  },
+  "image": "https://aramusic.bg/images/artists/extranina-main.jpg",
+  "poster": "https://aramusic.bg/images/artists/extranina-poster.jpg",
+  "thumbnail": "https://aramusic.bg/images/artists/extranina-thumb.jpg",
+  "fanart": "https://aramusic.bg/images/artists/extranina-fanart.jpg",
+  "musicbrainz_id": "c1e9f78c-ecbb-49c4-8aa7-dbc26063cde0"
+}
