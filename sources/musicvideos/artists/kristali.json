@@ -1,0 +1,23 @@
+{
+  "artist": "Kristali",
+  "name": "Кристали",
+  "alias": ["Kristali", "Kristali Band", "Кристали Бенд"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk", "Roma"],
+  "birth_name": "Kristali",
+  "birth_date": "1993-01-01",
+  "bio": "Kristali este o formație de muzică pop-folk și roma din Bulgaria, activă de mai multe decenii. Cunoscuți pentru hiturile de petrecere, piesele lor sunt frecvent întâlnite la evenimente și în cluburile din întreaga țară.",
+  "active_years": "1993–prezent",
+  "labels": ["Ara Music", "Sunny Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@KristaliBandOfficial",
+    "instagram": "https://www.instagram.com/kristali_band/",
+    "facebook": "https://www.facebook.com/Kristali.Official"
+  },
+  "image": "https://aramusic.bg/images/artists/kristali-main.jpg",
+  "poster": "https://aramusic.bg/images/artists/kristali-poster.jpg",
+  "thumbnail": "https://aramusic.bg/images/artists/kristali-thumb.jpg",
+  "fanart": "https://aramusic.bg/images/artists/kristali-fanart.jpg",
+  "musicbrainz_id": "0f7fe2fa-28ee-4a6e-a98f-0a13a7687f3f"
+}
