@@ -1,0 +1,23 @@
+{
+  "artist": "Irina Rimes",
+  "name": "Irina Rimes",
+  "alias": ["Irina Rimes", "Irra"],
+  "country": "Romania",
+  "genres": ["Pop", "Indie-pop", "Electro-pop"],
+  "birth_name": "Irina Rîmeș",
+  "birth_date": "1991-08-22",
+  "bio": "Irina Rimes este o cântăreață, compozitoare și textieră româncă originară din Republica Moldova. A devenit una dintre cele mai influente voci ale muzicii pop contemporane din România, fiind apreciată pentru lirism, emoție și autenticitate. Este, de asemenea, antrenoare la Vocea României.",
+  "active_years": "2016–prezent",
+  "labels": ["Global Records", "Universal Music France"],
+  "official_website": "https://www.irinarimesmusic.com/",
+  "social": {
+    "youtube": "https://www.youtube.com/@IrinaRimesOfficial",
+    "instagram": "https://www.instagram.com/irinarimes/",
+    "facebook": "https://www.facebook.com/IrinaRimes.Official"
+  },
+  "image": "https://www.irinarimesmusic.com/assets/images/irina-main.jpg",
+  "poster": "https://www.irinarimesmusic.com/assets/images/irina-poster.jpg",
+  "thumbnail": "https://www.irinarimesmusic.com/assets/images/irina-thumb.jpg",
+  "fanart": "https://www.irinarimesmusic.com/assets/images/irina-fanart.jpg",
+  "musicbrainz_id": "a5475c0b-2c90-4b66-91e4-e0492b377bc4"
+}
