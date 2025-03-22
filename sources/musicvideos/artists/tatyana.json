@@ -1,0 +1,23 @@
+{
+  "artist": "Tatyana",
+  "name": "Татяна",
+  "alias": ["Tatyana", "Tatyana Todorova", "Tatiana"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Ballad"],
+  "birth_name": "Tatyana Todorova",
+  "birth_date": "1978-07-17",
+  "bio": "Tatyana este o cântăreață bulgară de muzică pop-folk cunoscută pentru stilul ei rafinat, vocea caldă și piesele romantice. A lansat numeroase hituri de-a lungul anilor și este considerată una dintre cele mai stabile prezențe în scena chalga.",
+  "active_years": "2001–prezent",
+  "labels": ["Payner Music", "Sunny Music"],
+  "official_website": "https://payner.bg/artists/tatyana/",
+  "social": {
+    "youtube": "https://www.youtube.com/@TatyanaOfficial",
+    "instagram": "https://www.instagram.com/tatyana.official.bg/",
+    "facebook": "https://www.facebook.com/Tatyana.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/tatyana-main.jpg",
+  "poster": "https://payner.bg/images/artists/tatyana-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/tatyana-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/tatyana-fanart.jpg",
+  "musicbrainz_id": "bf4e38d3-7b61-47b3-bfd6-f6b7f1dbdc91"
+}
