@@ -1,0 +1,23 @@
+{
+  "artist": "Alex Robov",
+  "name": "Алекс Робов",
+  "alias": ["Alex Robov", "Aleks Robov", "Alexandar Robov"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Alexandar Robov",
+  "birth_date": "1984-02-05",
+  "bio": "Alex Robov este un cântăreț bulgar de pop-folk cunoscut pentru piesele sale de petrecere și ritmurile antrenante. Este apreciat pentru stilul său tradițional și aparițiile frecvente la evenimentele folclorice și chalga din Bulgaria.",
+  "active_years": "2005–prezent",
+  "labels": ["Diapason Records"],
+  "official_website": "https://diapasonrecords.com/alex-robov",
+  "social": {
+    "youtube": "https://www.youtube.com/@AlexRobovOfficial",
+    "instagram": "https://www.instagram.com/alexrobov/",
+    "facebook": "https://www.facebook.com/AlexRobov.Official"
+  },
+  "image": "https://diapasonrecords.com/images/artists/alexrobov-main.jpg",
+  "poster": "https://diapasonrecords.com/images/artists/alexrobov-poster.jpg",
+  "thumbnail": "https://diapasonrecords.com/images/artists/alexrobov-thumb.jpg",
+  "fanart": "https://diapasonrecords.com/images/artists/alexrobov-fanart.jpg",
+  "musicbrainz_id": "dcf894c7-327f-4029-a47e-58b69e2c2b53"
+}
