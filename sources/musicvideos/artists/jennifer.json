@@ -1,0 +1,23 @@
+{
+  "artist": "Jennifer",
+  "name": "Дженифър",
+  "alias": ["Jennifer", "Dzhenifar", "Дженифър БГ"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Jennifer Dimitrova",
+  "birth_date": "2001-01-22",
+  "bio": "Jennifer este o cântăreață tânără din Bulgaria, remarcată pentru vocea sa senzuală și imaginea provocatoare. Reprezintă o nouă generație de artiste pop-folk cu influențe trap și urban, aducând un suflu modern scenei muzicale chalga.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@JenniferOfficial",
+    "instagram": "https://www.instagram.com/jennifer.official.bg/",
+    "facebook": "https://www.facebook.com/Jennifer.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/jennifer-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/jennifer-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/jennifer-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/jennifer-fanart.jpg",
+  "musicbrainz_id": "2bcf9578-90b1-4938-9bb4-3c9a991d5f4e"
+}
