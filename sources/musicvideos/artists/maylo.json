@@ -1,0 +1,23 @@
+{
+  "artist": "Maylo",
+  "name": "Майло",
+  "alias": ["Maylo", "Milo", "Maylo Official"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Milen Dimitrov",
+  "birth_date": "1995-01-30",
+  "bio": "Maylo este un artist bulgar emergent, activ în zona trap-folk și chalga. Cu un stil modern, atitudine urbană și colaborări populare în industria muzicală balcanică, Maylo a devenit rapid cunoscut în rândul publicului tânăr.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@MayloOfficial",
+    "instagram": "https://www.instagram.com/maylo.official.bg/",
+    "facebook": "https://www.facebook.com/Maylo.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/maylo-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/maylo-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/maylo-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/maylo-fanart.jpg",
+  "musicbrainz_id": "d4587b94-118b-4ef3-bde1-3e5b8ad7ad45"
+}
