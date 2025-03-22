@@ -1,0 +1,23 @@
+{
+  "artist": "Tea Tairović",
+  "name": "Tea Tairović",
+  "alias": ["Tea Tairović", "Tea", "Теа Таировић"],
+  "country": "Serbia",
+  "genres": ["Pop-folk", "Turbo-folk", "Balkan", "Dance"],
+  "birth_name": "Tea Tairović",
+  "birth_date": "1996-04-04",
+  "bio": "Tea Tairović este o cântăreață sârbă de muzică pop-folk și turbo-folk, devenită una dintre cele mai populare figuri din noul val al scenei balcanice. Cunoscută pentru prezența scenică energică și stilul modern, a câștigat rapid succes în toată regiunea.",
+  "active_years": "2014–prezent",
+  "labels": ["IDJTunes", "Self-released"],
+  "official_website": "https://www.teatairovic.com/",
+  "social": {
+    "youtube": "https://www.youtube.com/@TeaTairovic",
+    "instagram": "https://www.instagram.com/teatairovic/",
+    "facebook": "https://www.facebook.com/TeaTairovicOfficial"
+  },
+  "image": "https://teatairovic.com/assets/images/tea-main.jpg",
+  "poster": "https://teatairovic.com/assets/images/tea-poster.jpg",
+  "thumbnail": "https://teatairovic.com/assets/images/tea-thumb.jpg",
+  "fanart": "https://teatairovic.com/assets/images/tea-fanart.jpg",
+  "musicbrainz_id": "e470938a-4212-47df-a6cf-78b95db43a58"
+}
