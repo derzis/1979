@@ -1,0 +1,23 @@
+{
+  "artist": "Lina",
+  "name": "Лина",
+  "alias": ["Lina", "Lina Official", "Лина БГ"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Lina Petrova",
+  "birth_date": "2000-08-11",
+  "bio": "Lina este o artistă din noul val al muzicii pop-folk bulgărești, cunoscută pentru piesele sale energice și imaginea modernă. A devenit cunoscută pe platformele sociale și în cluburi, atrăgând atenția prin colaborări cu artiști consacrați din scena chalga.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@LinaOfficial",
+    "instagram": "https://www.instagram.com/lina.official.bg/",
+    "facebook": "https://www.facebook.com/Lina.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/lina-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/lina-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/lina-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/lina-fanart.jpg",
+  "musicbrainz_id": "4fa488f1-9c2d-44e3-8970-7d8f174f4b6d"
+}
