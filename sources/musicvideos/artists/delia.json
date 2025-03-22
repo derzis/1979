@@ -1,0 +1,24 @@
+{
+  "artist": "Delia",
+  "name": "Delia",
+  "alias": ["Delia", "Delia Matache"],
+  "country": "Romania",
+  "genres": ["Pop", "Dance", "Electro-pop", "Ballad"],
+  "birth_name": "Delia Matache",
+  "birth_date": "1982-02-07",
+  "bio": "Delia este una dintre cele mai influente și respectate artiste din muzica românească. Fostă membră a trupei N&D, ea a cunoscut un succes uriaș și în cariera solo, cu hituri precum 'Pe aripi de vânt' sau 'Da, mamă'. Este apreciată pentru vocea sa unică, creativitate și stilul original.",
+  "active_years": "1999–prezent",
+  "labels": ["Global Records", "Cat Music"],
+  "official_website": "https://www.deliaofficial.ro/",
+  "social": {
+    "youtube": "https://www.youtube.com/@Delia",
+    "instagram": "https://www.instagram.com/delia/",
+    "facebook": "https://www.facebook.com/DeliaOfficial",
+    "twitter": "https://twitter.com/deliamatache"
+  },
+  "image": "https://www.deliaofficial.ro/images/delia-main.jpg",
+  "poster": "https://www.deliaofficial.ro/images/delia-poster.jpg",
+  "thumbnail": "https://www.deliaofficial.ro/images/delia-thumb.jpg",
+  "fanart": "https://www.deliaofficial.ro/images/delia-fanart.jpg",
+  "musicbrainz_id": "1fdd1073-c111-4d90-bc7c-22158e1223be"
+}
