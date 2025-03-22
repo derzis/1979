@@ -1,0 +1,23 @@
+{
+  "artist": "Elena Gheorghe",
+  "name": "Elena Gheorghe",
+  "alias": ["Elena", "Elena Gheorghe", "Elena G."],
+  "country": "Romania",
+  "genres": ["Pop", "Dance", "Latin pop", "Ethno-pop"],
+  "birth_name": "Elena Gheorghe",
+  "birth_date": "1985-07-30",
+  "bio": "Elena Gheorghe este o cântăreață româncă cunoscută pentru stilul său pop-dance cu influențe latino și etno. A reprezentat România la Eurovision 2009 cu piesa 'The Balkan Girls' și este apreciată pentru cariera sa solo de succes, dar și pentru perioada alături de Mandinga.",
+  "active_years": "2003–prezent",
+  "labels": ["Cat Music", "MediaPro Music"],
+  "official_website": "https://www.elenagheorghe.ro/",
+  "social": {
+    "youtube": "https://www.youtube.com/@ElenaGheorghe",
+    "instagram": "https://www.instagram.com/elenagheorghe/",
+    "facebook": "https://www.facebook.com/ElenaGheorgheOfficial"
+  },
+  "image": "https://elenagheorghe.ro/assets/img/elena-main.jpg",
+  "poster": "https://elenagheorghe.ro/assets/img/elena-poster.jpg",
+  "thumbnail": "https://elenagheorghe.ro/assets/img/elena-thumb.jpg",
+  "fanart": "https://elenagheorghe.ro/assets/img/elena-fanart.jpg",
+  "musicbrainz_id": "70b8d2f4-b1de-4e3c-bf4a-891209219935"
+}
