@@ -1,0 +1,23 @@
+{
+  "artist": "Georgia",
+  "name": "Георгия",
+  "alias": ["Georgia", "Georgiya", "Георгия"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Georgianka Petkova",
+  "birth_date": "1999-02-14",
+  "bio": "Georgia este o cântăreață din noua generație de artiști pop-folk din Bulgaria, apreciată pentru energia sa, stilul trap-folk modern și imaginea sa extravagantă. A colaborat cu mai mulți artiști din scena urbană chalga.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@GeorgiaOfficial",
+    "instagram": "https://www.instagram.com/georgia.official.bg/",
+    "facebook": "https://www.facebook.com/Georgia.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/georgia-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/georgia-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/georgia-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/georgia-fanart.jpg",
+  "musicbrainz_id": "ccd0d303-b88e-4e0d-a930-7c2e5f7df6fc"
+}
