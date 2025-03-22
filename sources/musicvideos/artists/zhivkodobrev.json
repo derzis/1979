@@ -1,0 +1,23 @@
+{
+  "artist": "Zhivko Dobrev",
+  "name": "Живко Добрев",
+  "alias": ["Zhivko Dobrev", "Jivko Dobrev", "Zhivko"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Dance"],
+  "birth_name": "Zhivko Dobrev",
+  "birth_date": "1990-04-22",
+  "bio": "Zhivko Dobrev este un artist pop-folk și dansator din Bulgaria, cunoscut pentru energia sa scenică și colaborările cu artiști de renume din industria chalga. Este apreciat pentru stilul său modern și coregrafiile spectaculoase din videoclipurile sale.",
+  "active_years": "2015–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@ZhivkoDobrevOfficial",
+    "instagram": "https://www.instagram.com/zhivko_dobrev/",
+    "facebook": "https://www.facebook.com/ZhivkoDobrev.Official"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/zhivkodobrev-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/zhivkodobrev-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/zhivkodobrev-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/zhivkodobrev-fanart.jpg",
+  "musicbrainz_id": "3ba7aa78-70f6-4f5f-8cc3-9b2e1ac7ff38"
+}
