@@ -1,0 +1,23 @@
+{
+  "artist": "Galin",
+  "name": "Галин",
+  "alias": ["Galin", "Galin Gospodinov", "Galin Popfolk"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Galin Gospodinov",
+  "birth_date": "1991-12-12",
+  "bio": "Galin este unul dintre cei mai influenți artiști din noul val al muzicii pop-folk din Bulgaria. Pe lângă cariera sa de cântăreț, el este și fondatorul casei de discuri 'Hybrid Music'. Galin este cunoscut pentru colaborările sale de succes și pentru promovarea unui stil modern, urban.",
+  "active_years": "2012–prezent",
+  "labels": ["Hybrid Music", "Payner Music (fost)"],
+  "official_website": "https://hybridmusic.bg/artists/galin",
+  "social": {
+    "youtube": "https://www.youtube.com/@GalinOfficial",
+    "instagram": "https://www.instagram.com/galin.official/",
+    "facebook": "https://www.facebook.com/Galin.Official.Page"
+  },
+  "image": "https://hybridmusic.bg/images/artists/galin-main.jpg",
+  "poster": "https://hybridmusic.bg/images/artists/galin-poster.jpg",
+  "thumbnail": "https://hybridmusic.bg/images/artists/galin-thumb.jpg",
+  "fanart": "https://hybridmusic.bg/images/artists/galin-fanart.jpg",
+  "musicbrainz_id": "c813d10a-681f-4458-8780-3fbc9cfb1351"
+}
