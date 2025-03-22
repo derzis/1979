@@ -1,0 +1,23 @@
+{
+  "artist": "Galena",
+  "name": "Галена",
+  "alias": ["Galena", "Galina Gencheva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Galina Vicheva Gencheva",
+  "birth_date": "1985-05-21",
+  "bio": "Galena este o cântăreață de muzică pop-folk din Bulgaria, una dintre cele mai de succes artiste din țară. A debutat în anii 2000 și este cunoscută pentru stilul ei extravagant și vocea puternică.",
+  "active_years": "2004–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://galena.bg/",
+  "social": {
+    "youtube": "https://www.youtube.com/@GalenaOfficial",
+    "instagram": "https://www.instagram.com/galena.official/",
+    "facebook": "https://www.facebook.com/galena.official"
+  },
+  "image": "https://galena.bg/images/galena-main.jpg",
+  "poster": "https://galena.bg/images/poster.jpg",
+  "thumbnail": "https://galena.bg/images/thumb.jpg",
+  "fanart": "https://galena.bg/images/fanart.jpg",
+  "musicbrainz_id": "7c9d4f6b-8ae3-4c0f-90b1-14647ac3ff02"
+}
