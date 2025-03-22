@@ -1,0 +1,23 @@
+{
+  "artist": "Gia",
+  "name": "Гиа",
+  "alias": ["Gia", "GIA", "Gia Official", "Гиа БГ"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Gianna Ivanova",
+  "birth_date": "2002-10-02",
+  "bio": "Gia este o artistă pop-folk din Bulgaria, parte din noul val de cântăreți care îmbină chalga tradițională cu influențe trap și urbane. Cu un look provocator și piese energice, Gia s-a impus rapid în rândul publicului tânăr.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@GiaOfficial",
+    "instagram": "https://www.instagram.com/gia.official.bg/",
+    "facebook": "https://www.facebook.com/Gia.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/gia-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/gia-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/gia-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/gia-fanart.jpg",
+  "musicbrainz_id": "34516f7a-ea2d-4e2a-98b2-0d0ffb7ebf6c"
+}
