@@ -1,0 +1,23 @@
+{
+  "artist": "Sasho Roman",
+  "name": "Сашо Роман",
+  "alias": ["Sasho Roman", "Sasho", "Сашо"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Roma music", "Ballad"],
+  "birth_name": "Aleksandar Velichkov",
+  "birth_date": "1952-03-02",
+  "bio": "Sasho Roman este o legendă a muzicii pop-folk și roma din Bulgaria. Cu o carieră de peste 40 de ani, este cunoscut pentru vocea sa distinctivă și melodiile nostalgice, multe dintre ele devenind clasice în cultura muzicală balcanică.",
+  "active_years": "1980–prezent",
+  "labels": ["Sunny Music", "Ara Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SashoRomanOfficial",
+    "instagram": "https://www.instagram.com/sashoroman/",
+    "facebook": "https://www.facebook.com/SashoRoman.Official.Page"
+  },
+  "image": "https://folk.bg/images/artists/sashoroman-main.jpg",
+  "poster": "https://folk.bg/images/artists/sashoroman-poster.jpg",
+  "thumbnail": "https://folk.bg/images/artists/sashoroman-thumb.jpg",
+  "fanart": "https://folk.bg/images/artists/sashoroman-fanart.jpg",
+  "musicbrainz_id": "37f7bb80-6aa1-4e8f-baf3-d78f46210e47"
+}
