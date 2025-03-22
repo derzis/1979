@@ -1,0 +1,23 @@
+{
+  "artist": "Emil TRF",
+  "name": "Емил TRF",
+  "alias": ["Emil TRF", "Emil", "Емил TRF"],
+  "country": "Bulgaria",
+  "genres": ["Trap", "Trap-folk", "Hip-Hop", "Urban"],
+  "birth_name": "Emil Stoyanov",
+  "birth_date": "1998-09-17",
+  "bio": "Emil TRF este un artist urban din Bulgaria care s-a remarcat prin combinația între trap modern și elemente de chalga. Este cunoscut pentru stilul liric direct, colaborările frecvente cu artiști din trap-folk și videoclipurile produse cu vibe stradal.",
+  "active_years": "2020–prezent",
+  "labels": ["Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@EmilTRFOfficial",
+    "instagram": "https://www.instagram.com/emil.trf/",
+    "facebook": "https://www.facebook.com/EmilTRF.Official"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/emiltrf-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/emiltrf-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/emiltrf-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/emiltrf-fanart.jpg",
+  "musicbrainz_id": "dbfe1f3b-0dbe-4b56-9c43-1e83a1ee5e64"
+}
