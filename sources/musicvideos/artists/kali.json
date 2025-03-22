@@ -1,0 +1,23 @@
+{
+  "artist": "Kali",
+  "name": "Кали",
+  "alias": ["Kali", "Galina Dimitrova Ivanova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Galina Dimitrova Ivanova",
+  "birth_date": "1975-10-02",
+  "bio": "Kali este o cântăreață de muzică pop-folk din Bulgaria, cunoscută pentru piesele sale cu teme sociale și profunde. A devenit celebră cu hitul '4-4-2' și este apreciată pentru abordarea ei matură, stilul rafinat și vocea caldă.",
+  "active_years": "1998–2020",
+  "labels": ["Payner Music", "Ara Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@KaliOfficial",
+    "instagram": "https://www.instagram.com/kali.official.bg/",
+    "facebook": "https://www.facebook.com/Kali.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/kali-main.jpg",
+  "poster": "https://payner.bg/images/artists/kali-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/kali-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/kali-fanart.jpg",
+  "musicbrainz_id": "d221f137-1a3f-4e60-a3a4-2103d3466be3"
+}
