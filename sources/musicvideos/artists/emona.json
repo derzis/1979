@@ -1,0 +1,23 @@
+{
+  "artist": "Emona",
+  "name": "Емона",
+  "alias": ["Emona", "Emona Ivanova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Emona Ivanova",
+  "birth_date": "1999-11-05",
+  "bio": "Emona este o cântăreață tânără din Bulgaria care s-a remarcat prin apariții recente în scena pop-folk. Stilul său combină elemente moderne cu sunete orientale specifice muzicii chalga. Este apreciată pentru look-ul exotic și vocea senzuală.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@EmonaOfficial",
+    "instagram": "https://www.instagram.com/emona.official.bg/",
+    "facebook": "https://www.facebook.com/Emona.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/emona-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/emona-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/emona-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/emona-fanart.jpg",
+  "musicbrainz_id": "cded7a5b-2011-4896-95ff-9cb9b2d9de13"
+}
