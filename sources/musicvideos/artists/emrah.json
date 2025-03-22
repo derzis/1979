@@ -1,0 +1,23 @@
+{
+  "artist": "Emrah",
+  "name": "Емрах",
+  "alias": ["Emrah", "Emrah Tursunov", "Emrah Hristo"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Emrah Hristo",
+  "birth_date": "2002-01-05",
+  "bio": "Emrah este fiul celebrului cântăreț Toni Storaro și fratele lui Fiki. A debutat în muzica pop-folk de la o vârstă fragedă și a devenit rapid popular datorită vocii sale puternice și colaborărilor de succes din familia sa muzicală.",
+  "active_years": "2019–prezent",
+  "labels": ["Sunny Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@EmrahOfficial",
+    "instagram": "https://www.instagram.com/emrah.official.bg/",
+    "facebook": "https://www.facebook.com/Emrah.Official.Page"
+  },
+  "image": "https://sunnymusic.bg/images/artists/emrah-main.jpg",
+  "poster": "https://sunnymusic.bg/images/artists/emrah-poster.jpg",
+  "thumbnail": "https://sunnymusic.bg/images/artists/emrah-thumb.jpg",
+  "fanart": "https://sunnymusic.bg/images/artists/emrah-fanart.jpg",
+  "musicbrainz_id": "1d8f5085-c9b4-46c0-90c5-34e204640a18"
+}
