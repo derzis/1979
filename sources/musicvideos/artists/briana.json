@@ -1,0 +1,23 @@
+{
+  "artist": "Briana",
+  "name": "Бриана",
+  "alias": ["Briana", "Briana Official"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Briana Ivanova",
+  "birth_date": "1996-12-14",
+  "bio": "Briana este o artistă tânără din Bulgaria, cunoscută pentru stilul ei trap-folk și look-ul provocator. A apărut în peisajul muzical cu piese energice, videoclipuri moderne și o imagine nonconformistă, atrăgând rapid atenția publicului tânăr.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@BrianaOfficial",
+    "instagram": "https://www.instagram.com/briana.official.bg/",
+    "facebook": "https://www.facebook.com/Briana.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/briana-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/briana-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/briana-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/briana-fanart.jpg",
+  "musicbrainz_id": "beaad6ef-b7cd-4eb6-91e6-9ac845d7e634"
+}
