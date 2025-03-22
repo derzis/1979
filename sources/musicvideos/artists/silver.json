@@ -1,0 +1,23 @@
+{
+  "artist": "Silver",
+  "name": "Силвър",
+  "alias": ["Silver", "Silvar", "Simeon Trendafilov"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Simeon Trendafilov",
+  "birth_date": "1989-11-16",
+  "bio": "Silver este un cântăreț, compozitor și producător bulgar de muzică pop-folk și trap-folk. Este cunoscut pentru colaborările sale cu artiști de top din industria chalga și pentru faptul că semnează atât piesele sale, cât și ale altora.",
+  "active_years": "2015–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SilverOfficial",
+    "instagram": "https://www.instagram.com/silver_music_official/",
+    "facebook": "https://www.facebook.com/Silver.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/silver-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/silver-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/silver-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/silver-fanart.jpg",
+  "musicbrainz_id": "ae70f697-7d8f-4341-bb87-2355b3f9e930"
+}
