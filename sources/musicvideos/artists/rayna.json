@@ -1,0 +1,23 @@
+{
+  "artist": "Rayna",
+  "name": "Райна",
+  "alias": ["Rayna", "Rayna Terziyska", "Raina"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Folk", "Chalga"],
+  "birth_name": "Rayna Kirilova Terziyska",
+  "birth_date": "1981-09-30",
+  "bio": "Rayna este o cântăreață bulgară de pop-folk și muzică tradițională, cunoscută pentru vocea sa clară și expresivă. De-a lungul carierei sale, a lansat albume atât în stil chalga, cât și în genul folcloric, fiind considerată una dintre cele mai versatile interprete din Bulgaria.",
+  "active_years": "2001–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/rayna/",
+  "social": {
+    "youtube": "https://www.youtube.com/@RaynaOfficial",
+    "instagram": "https://www.instagram.com/rayna.official/",
+    "facebook": "https://www.facebook.com/Rayna.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/rayna-main.jpg",
+  "poster": "https://payner.bg/images/artists/rayna-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/rayna-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/rayna-fanart.jpg",
+  "musicbrainz_id": "8f23bd13-c0e6-42d2-8f55-83ed86731ef3"
+}
