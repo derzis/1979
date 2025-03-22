@@ -1,0 +1,23 @@
+{
+  "artist": "Zori Andreeva",
+  "name": "Зори Андреева",
+  "alias": ["Zori Andreeva", "Zori", "Zoritsa Andreeva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Zoritsa Andreeva",
+  "birth_date": "1998-09-26",
+  "bio": "Zori Andreeva este o artistă emergentă din Bulgaria care combină trap-ul modern cu elemente pop-folk. Cunoscută pentru look-ul său îndrăzneț și piese provocatoare, Zori câștigă rapid popularitate în rândul tinerilor fani ai genului chalga.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@ZoriAndreevaOfficial",
+    "instagram": "https://www.instagram.com/zori.andreeva/",
+    "facebook": "https://www.facebook.com/ZoriAndreeva.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/zoriandreeva-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/zoriandreeva-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/zoriandreeva-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/zoriandreeva-fanart.jpg",
+  "musicbrainz_id": "632fe502-59c3-486e-8ad4-7e9986d2ae7b"
+}
