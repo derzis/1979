@@ -1,0 +1,23 @@
+{
+  "artist": "Gloria",
+  "name": "Глория",
+  "alias": ["Gloria", "Galina Peneva Ivanova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Galina Peneva Ivanova",
+  "birth_date": "1973-06-28",
+  "bio": "Gloria este considerată una dintre pionierii muzicii pop-folk din Bulgaria. Cu o carieră ce se întinde pe mai bine de două decenii, ea a influențat generații întregi de artiști și rămâne una dintre cele mai iubite voci din muzica chalga.",
+  "active_years": "1994–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/gloria/",
+  "social": {
+    "youtube": "https://www.youtube.com/@GloriaOfficial",
+    "instagram": "https://www.instagram.com/gloria.music/",
+    "facebook": "https://www.facebook.com/Gloria.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/gloria-main.jpg",
+  "poster": "https://payner.bg/images/artists/gloria-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/gloria-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/gloria-fanart.jpg",
+  "musicbrainz_id": "8f8cd4b2-56b1-4d38-8c70-5e6c0870ea69"
+}
