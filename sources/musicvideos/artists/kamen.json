@@ -1,0 +1,23 @@
+{
+  "artist": "Kamen",
+  "name": "Камен",
+  "alias": ["Kamen", "Kamen Stoyanov"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Kamen Stoyanov",
+  "birth_date": "1998-05-14",
+  "bio": "Kamen este un tânăr cântăreț bulgar care s-a făcut remarcat prin stilul său modern ce combină trap-ul cu muzica pop-folk. Face parte din noul val al scenei chalga și este cunoscut pentru aparițiile sale provocatoare și colaborările cu artiști ca Diona și Dzhuliana Gani.",
+  "active_years": "2020–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@KamenOfficial",
+    "instagram": "https://www.instagram.com/kamen.official/",
+    "facebook": "https://www.facebook.com/Kamen.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/kamen-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/kamen-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/kamen-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/kamen-fanart.jpg",
+  "musicbrainz_id": "54d43ae6-5cc9-402c-92b2-7d7a63a68064"
+}
