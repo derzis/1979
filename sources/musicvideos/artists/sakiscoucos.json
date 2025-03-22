@@ -1,0 +1,23 @@
+{
+  "artist": "Sakis Coucos",
+  "name": "Sakis Coucos",
+  "alias": ["Sakis Coucos", "Sakis", "Sakis Koukos"],
+  "country": "Greece",
+  "genres": ["Laïko", "Pop", "Balkan", "Dance"],
+  "birth_name": "Sotirios Coucos",
+  "birth_date": "1975-04-11",
+  "bio": "Sakis Coucos este un cântăreț grec cunoscut pentru stilul său laïko modern și colaborările cu artiști din Balcani. Muzica lui combină influențe tradiționale grecești cu sunete dance, iar piesele sale sunt populare în Grecia, Bulgaria și România.",
+  "active_years": "2002–prezent",
+  "labels": ["Heaven Music", "Panik Records"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SakisCoucosOfficial",
+    "instagram": "https://www.instagram.com/sakiscoucos/",
+    "facebook": "https://www.facebook.com/SakisCoucos.Official"
+  },
+  "image": "https://balkanika.tv/images/artists/sakiscoucos-main.jpg",
+  "poster": "https://balkanika.tv/images/artists/sakiscoucos-poster.jpg",
+  "thumbnail": "https://balkanika.tv/images/artists/sakiscoucos-thumb.jpg",
+  "fanart": "https://balkanika.tv/images/artists/sakiscoucos-fanart.jpg",
+  "musicbrainz_id": "71a7f2c9-837f-47a7-8871-0b4e79b8d5d1"
+}
