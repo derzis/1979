@@ -1,0 +1,23 @@
+{
+  "artist": "Preslava",
+  "name": "Преслава",
+  "alias": ["Preslava", "Petya Koleva Ivanova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Petya Koleva Ivanova",
+  "birth_date": "1984-06-26",
+  "bio": "Preslava este una dintre cele mai faimoase cântărețe de pop-folk din Bulgaria, cunoscută pentru vocea sa puternică și melodiile emoționale. A debutat în 2004 sub casa de discuri Payner și a devenit rapid un nume de referință în industria muzicală bulgară.",
+  "active_years": "2004–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://preslava.bg/",
+  "social": {
+    "youtube": "https://www.youtube.com/@PreslavaOfficial",
+    "instagram": "https://www.instagram.com/preslava_official/",
+    "facebook": "https://www.facebook.com/Preslava"
+  },
+  "image": "https://preslava.bg/images/preslava-main.jpg",
+  "poster": "https://preslava.bg/images/poster.jpg",
+  "thumbnail": "https://preslava.bg/images/thumb.jpg",
+  "fanart": "https://preslava.bg/images/fanart.jpg",
+  "musicbrainz_id": "fc7e2aa2-7f92-4dc9-96d6-8c457b152763"
+}
