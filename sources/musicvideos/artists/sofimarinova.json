@@ -1,0 +1,23 @@
+{
+  "artist": "Sofi Marinova",
+  "name": "Софи Маринова",
+  "alias": ["Sofi Marinova", "Sofka", "Софка"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Roma music", "Dance"],
+  "birth_name": "Sofiya Marinova Kamenova",
+  "birth_date": "1975-12-05",
+  "bio": "Sofi Marinova este una dintre cele mai emblematice voci ale muzicii pop-folk și roma din Bulgaria. Este cunoscută pentru ambitusul vocal impresionant, emoția din interpretare și hituri care au devenit clasice. A reprezentat Bulgaria la Eurovision 2012 cu piesa „Love Unlimited”.",
+  "active_years": "1994–prezent",
+  "labels": ["Sunny Music", "Ara Music", "Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SofiMarinovaOfficial",
+    "instagram": "https://www.instagram.com/sofimarinova/",
+    "facebook": "https://www.facebook.com/SofiMarinova.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/sofimarinova-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/sofimarinova-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/sofimarinova-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/sofimarinova-fanart.jpg",
+  "musicbrainz_id": "80b7c643-80fc-4d71-8e7e-3d05a7e845c2"
+}
