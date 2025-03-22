@@ -1,0 +1,23 @@
+{
+  "artist": "Maria",
+  "name": "Мария",
+  "alias": ["Maria", "Maria Panayotova", "Maria Popfolk", "Maria Panayotova Kirova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Maria Panayotova Kirova",
+  "birth_date": "1982-01-13",
+  "bio": "Maria este o cântăreață de muzică pop-folk din Bulgaria, activă de peste două decenii. Cunoscută și sub porecla 'Pătitoarea' pentru melodiile sale emoționale, Maria a lansat zeci de hituri și este considerată una dintre cele mai emblematice artiste ale genului chalga.",
+  "active_years": "2000–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/maria/",
+  "social": {
+    "youtube": "https://www.youtube.com/@MariaOfficial",
+    "instagram": "https://www.instagram.com/maria.official.bg/",
+    "facebook": "https://www.facebook.com/Maria.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/maria-main.jpg",
+  "poster": "https://payner.bg/images/artists/maria-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/maria-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/maria-fanart.jpg",
+  "musicbrainz_id": "9b39a755-6c0a-4b08-b8cf-5c98d6e453f1"
+}
