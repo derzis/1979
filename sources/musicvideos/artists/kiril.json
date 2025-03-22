@@ -1,0 +1,23 @@
+{
+  "artist": "Kiril",
+  "name": "Кирил",
+  "alias": ["Kiril", "Kiril Georgiev", "Kiril B."],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Dance"],
+  "birth_name": "Kiril Georgiev",
+  "birth_date": "1992-07-09",
+  "bio": "Kiril este un cântăreț bulgar de muzică pop-folk care s-a remarcat prin piese de dragoste și ritmuri de club. A colaborat cu artiști cunoscuți din scena chalga și este apreciat pentru vocea sa caldă și stilul energic.",
+  "active_years": "2016–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@KirilOfficial",
+    "instagram": "https://www.instagram.com/kiril.official.bg/",
+    "facebook": "https://www.facebook.com/Kiril.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/kiril-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/kiril-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/kiril-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/kiril-fanart.jpg",
+  "musicbrainz_id": "b80420ea-b38c-41e5-b6b3-c609b1bbadbd"
+}
