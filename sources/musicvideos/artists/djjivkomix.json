@@ -1,0 +1,23 @@
+{
+  "artist": "DJ Jivko Mix",
+  "name": "DJ Живко Микс",
+  "alias": ["DJ Jivko Mix", "Jivko Mix", "Живко Микс"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Remix", "Club"],
+  "birth_name": "Jivko Petrov",
+  "birth_date": "1985-08-20",
+  "bio": "DJ Jivko Mix este unul dintre cei mai cunoscuți DJ de remixuri pop-folk și chalga din Bulgaria. A colaborat cu numeroși artiști consacrați, aducând un sound clubbing specific genului chalga, cu influențe moderne și energie explozivă.",
+  "active_years": "2009–prezent",
+  "labels": ["Hit Mix Music", "Diapason Records"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DJJivkoMixOfficial",
+    "instagram": "https://www.instagram.com/dj_jivko_mix/",
+    "facebook": "https://www.facebook.com/DJJivkoMix.Official"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/djjivkomix-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/djjivkomix-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/djjivkomix-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/djjivkomix-fanart.jpg",
+  "musicbrainz_id": "7125fabe-b4a1-4d13-98f2-741c98efb7d1"
+}
