@@ -1,0 +1,23 @@
+{
+  "artist": "Gery-Nikol",
+  "name": "Гери-Никол",
+  "alias": ["Gery-Nikol", "Geri-Nikol", "Gery", "Gery-Nikol Nikolaeva Georgieva"],
+  "country": "Bulgaria",
+  "genres": ["Pop", "R&B", "Trap", "Urban"],
+  "birth_name": "Gery-Nikol Nikolaeva Georgieva",
+  "birth_date": "1998-07-30",
+  "bio": "Gery-Nikol este o cântăreață bulgară de muzică pop și urban, cunoscută pentru stilul său provocator și aparițiile virale. A devenit celebră după participarea la X Factor Bulgaria și a lansat ulterior mai multe hituri de succes pe YouTube.",
+  "active_years": "2014–prezent",
+  "labels": ["Facing The Sun", "Self-released"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@GeryNikol",
+    "instagram": "https://www.instagram.com/gery_nikol/",
+    "facebook": "https://www.facebook.com/GeryNikol.Official"
+  },
+  "image": "https://facingthesun.com/images/artists/gerynikol-main.jpg",
+  "poster": "https://facingthesun.com/images/artists/gerynikol-poster.jpg",
+  "thumbnail": "https://facingthesun.com/images/artists/gerynikol-thumb.jpg",
+  "fanart": "https://facingthesun.com/images/artists/gerynikol-fanart.jpg",
+  "musicbrainz_id": "c5039a3c-bf96-4d70-b293-2f05922ebd38"
+}
