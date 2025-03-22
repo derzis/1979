@@ -1,0 +1,23 @@
+{
+  "artist": "Magda",
+  "name": "Магда",
+  "alias": ["Magda", "Magdalena Koleva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Magdalena Koleva",
+  "birth_date": "1987-06-28",
+  "bio": "Magda este o cântăreață bulgară de muzică pop-folk, cunoscută pentru vocea sa blândă și pentru piesele cu teme romantice. Activă de peste un deceniu în industria muzicală, este una dintre cele mai constante prezențe ale casei de discuri Payner.",
+  "active_years": "2006–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/magda/",
+  "social": {
+    "youtube": "https://www.youtube.com/@MagdaOfficial",
+    "instagram": "https://www.instagram.com/magda.official.bg/",
+    "facebook": "https://www.facebook.com/Magda.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/magda-main.jpg",
+  "poster": "https://payner.bg/images/artists/magda-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/magda-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/magda-fanart.jpg",
+  "musicbrainz_id": "0ae7c92c-2f9f-4bb6-a416-03054c10c22c"
+}
