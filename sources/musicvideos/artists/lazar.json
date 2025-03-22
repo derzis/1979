@@ -1,0 +1,23 @@
+{
+  "artist": "Lazar",
+  "name": "Лазар",
+  "alias": ["Lazar", "Lazar Vasilev"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Dance", "Chalga", "Trap-folk"],
+  "birth_name": "Lazar Vasilev",
+  "birth_date": "1991-08-14",
+  "bio": "Lazar este un cântăreț bulgar de muzică pop-folk și dance, cunoscut pentru stilul său modern și piesele antrenante. A colaborat cu artiști precum Emilia și Diona, fiind o prezență apreciată în cluburi și pe scena muzicală chalga.",
+  "active_years": "2015–prezent",
+  "labels": ["Hit Mix Music", "Payner Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@LazarOfficial",
+    "instagram": "https://www.instagram.com/lazar.official.bg/",
+    "facebook": "https://www.facebook.com/Lazar.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/lazar-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/lazar-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/lazar-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/lazar-fanart.jpg",
+  "musicbrainz_id": "8cc261e4-3f18-4d59-8dfb-59465f2c0e80"
+}
