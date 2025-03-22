@@ -1,0 +1,23 @@
+{
+  "artist": "Theo Rose",
+  "name": "Theo Rose",
+  "alias": ["Theo Rose", "Teodora Diaconu"],
+  "country": "Romania",
+  "genres": ["Pop", "Pop-folk", "Dance", "Trap"],
+  "birth_name": "Teodora Diaconu",
+  "birth_date": "1997-08-08",
+  "bio": "Theo Rose este o artistă româncă extrem de versatilă, activă în muzica pop, pop-folk și trap. Cunoscută pentru vocea puternică, naturalețea scenică și colaborările cu artiști urbani, Theo a devenit o prezență marcantă în peisajul muzical românesc.",
+  "active_years": "2015–prezent",
+  "labels": ["Hahaha Production", "Cat Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@TheoRoseOfficial",
+    "instagram": "https://www.instagram.com/theorose/",
+    "facebook": "https://www.facebook.com/TheoRose.Official/"
+  },
+  "image": "https://static.catmusic.ro/artists/theorose-main.jpg",
+  "poster": "https://static.catmusic.ro/artists/theorose-poster.jpg",
+  "thumbnail": "https://static.catmusic.ro/artists/theorose-thumb.jpg",
+  "fanart": "https://static.catmusic.ro/artists/theorose-fanart.jpg",
+  "musicbrainz_id": "7dc03459-d04b-42a2-8f92-381103b34a4a"
+}
