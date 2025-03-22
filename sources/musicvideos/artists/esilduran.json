@@ -1,0 +1,23 @@
+{
+  "artist": "Esil Duran",
+  "name": "Есил Дюран",
+  "alias": ["Esil Duran", "Esil Djuran", "Есил"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Pop"],
+  "birth_name": "Esil Duran",
+  "birth_date": "1969-05-05",
+  "bio": "Esil Duran este una dintre cele mai respectate cântărețe din Bulgaria, cu o carieră impresionantă în muzica pop-folk. Este apreciată pentru vocea sa caldă, prezența elegantă și stilul muzical care combină tradiționalul cu modernul.",
+  "active_years": "1999–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/esil-duran/",
+  "social": {
+    "youtube": "https://www.youtube.com/@EsilDuranOfficial",
+    "instagram": "https://www.instagram.com/esilduran/",
+    "facebook": "https://www.facebook.com/EsilDuran.Official"
+  },
+  "image": "https://payner.bg/images/artists/esilduran-main.jpg",
+  "poster": "https://payner.bg/images/artists/esilduran-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/esilduran-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/esilduran-fanart.jpg",
+  "musicbrainz_id": "d5ec0997-1a5f-4a3b-87da-bff78e4a8580"
+}
