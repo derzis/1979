@@ -1,0 +1,23 @@
+{
+  "artist": "Milko Kalaydzhiev",
+  "name": "Милко Калайджиев",
+  "alias": ["Milko Kalaydzhiev", "Milko", "Milko Kalaydzhiyev"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Milko Kalaydzhiev",
+  "birth_date": "1951-07-10",
+  "bio": "Milko Kalaydzhiev este un cântăreț legendar al muzicii pop-folk și folk din Bulgaria. Este cunoscut pentru stilul său tradițional, mustața iconică și melodiile sale de petrecere. A avut o influență semnificativă în evoluția muzicii chalga.",
+  "active_years": "1990–prezent",
+  "labels": ["Payner Music", "Milko Music"],
+  "official_website": "https://milkomusic.bg/",
+  "social": {
+    "youtube": "https://www.youtube.com/@MilkoKalaydzhievOfficial",
+    "instagram": "https://www.instagram.com/milko.kalaydzhiev/",
+    "facebook": "https://www.facebook.com/MilkoKalaydzhiev.Official"
+  },
+  "image": "https://milkomusic.bg/images/milko-main.jpg",
+  "poster": "https://milkomusic.bg/images/milko-poster.jpg",
+  "thumbnail": "https://milkomusic.bg/images/milko-thumb.jpg",
+  "fanart": "https://milkomusic.bg/images/milko-fanart.jpg",
+  "musicbrainz_id": "aeb1d74a-0df6-4b5c-a60f-0a5f9e30c4cb"
+}
