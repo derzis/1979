@@ -1,0 +1,23 @@
+{
+  "artist": "Trayana",
+  "name": "Траяна",
+  "alias": ["Trayana", "Trayana", "Trayana Naydenova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Trayana Naydenova",
+  "birth_date": "1985-06-22",
+  "bio": "Trayana este o cântăreață de muzică pop-folk din Bulgaria, cunoscută pentru timbrul său vocal unic și pentru prezența sa carismatică. A devenit cunoscută în anii 2000 și a lansat o serie de melodii populare în genul chalga.",
+  "active_years": "2006–prezent",
+  "labels": ["Payner Music", "Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@TrayanaOfficial",
+    "instagram": "https://www.instagram.com/trayana.official/",
+    "facebook": "https://www.facebook.com/Trayana.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/trayana-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/trayana-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/trayana-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/trayana-fanart.jpg",
+  "musicbrainz_id": "8d4cf6d2-87f3-46a3-bd25-b15c0a22a947"
+}
