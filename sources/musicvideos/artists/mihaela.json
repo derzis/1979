@@ -1,0 +1,23 @@
+{
+  "artist": "Mihaela",
+  "name": "Михаела",
+  "alias": ["Mihaela", "Michaela", "Mihaela Official"],
+  "country": "Bulgaria",
+  "genres": ["Pop", "Pop-folk", "Ballad"],
+  "birth_name": "Mihaela Fileva",
+  "birth_date": "1991-05-15",
+  "bio": "Mihaela este o cântăreață, compozitoare și fostă participantă la X Factor Bulgaria, cunoscută pentru stilul său elegant, muzică pop rafinată și colaborări cu artiști de top din Bulgaria. Este apreciată pentru vocea sa caldă și prezența scenică rafinată.",
+  "active_years": "2011–prezent",
+  "labels": ["Virginia Records"],
+  "official_website": "https://mihaela-fileva.com/",
+  "social": {
+    "youtube": "https://www.youtube.com/@MihaelaFileva",
+    "instagram": "https://www.instagram.com/mihaelafileva/",
+    "facebook": "https://www.facebook.com/MihaelaFileva.Official"
+  },
+  "image": "https://virginiarecords.com/wp-content/uploads/2022/04/mihaela-fileva-main.jpg",
+  "poster": "https://virginiarecords.com/wp-content/uploads/2022/04/mihaela-fileva-poster.jpg",
+  "thumbnail": "https://virginiarecords.com/wp-content/uploads/2022/04/mihaela-fileva-thumb.jpg",
+  "fanart": "https://virginiarecords.com/wp-content/uploads/2022/04/mihaela-fileva-fanart.jpg",
+  "musicbrainz_id": "df4fd0f0-b0b8-4dc3-97f7-fbd7fba38fc9"
+}
