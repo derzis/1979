@@ -1,0 +1,23 @@
+{
+  "artist": "Elena",
+  "name": "Елена",
+  "alias": ["Elena", "Elena Parisheva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Dance"],
+  "birth_name": "Elena Parisheva",
+  "birth_date": "1985-01-08",
+  "bio": "Elena este o cântăreață bulgară de muzică pop-folk care a devenit cunoscută în anii 2000 datorită vocii sale feminine și pieselor cu influențe moderne. A fost una dintre cele mai proeminente artiste ale casei de discuri Payner în perioada sa de glorie.",
+  "active_years": "2004–2011",
+  "labels": ["Payner Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@ElenaOfficial",
+    "instagram": "https://www.instagram.com/elena.parisheva/",
+    "facebook": "https://www.facebook.com/Elena.Parisheva.Official"
+  },
+  "image": "https://payner.bg/images/artists/elena-main.jpg",
+  "poster": "https://payner.bg/images/artists/elena-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/elena-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/elena-fanart.jpg",
+  "musicbrainz_id": "3c27f5b5-b3ed-4655-9c79-3e30911f8395"
+}
