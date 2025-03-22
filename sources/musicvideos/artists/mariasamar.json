@@ -1,0 +1,23 @@
+{
+  "artist": "Maria Samar",
+  "name": "Мария Самар",
+  "alias": ["Maria Samar", "Мария Самар", "Mariya Samar"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Dance"],
+  "birth_name": "Maria Samar",
+  "birth_date": "1997-02-08",
+  "bio": "Maria Samar este o artistă tânără din Bulgaria care a devenit cunoscută prin stilul său provocator, mixul de pop-folk și influențe dance. Cu o prezență constantă în cluburi și pe rețelele sociale, Maria atrage publicul prin energia și atitudinea sa puternică.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@MariaSamarOfficial",
+    "instagram": "https://www.instagram.com/maria.samar/",
+    "facebook": "https://www.facebook.com/MariaSamar.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/mariasamar-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/mariasamar-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/mariasamar-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/mariasamar-fanart.jpg",
+  "musicbrainz_id": "d2d4ef65-8bb4-4a3e-8bfb-4fa9de91b9d7"
+}
