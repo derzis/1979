@@ -1,0 +1,23 @@
+{
+  "artist": "Luchano",
+  "name": "Лучано",
+  "alias": ["Luchano", "Luchano Official", "Лучано БГ"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Lyuben Stoyanov",
+  "birth_date": "1995-11-28",
+  "bio": "Luchano este un artist bulgar din noul val al muzicii pop-folk și trap-folk. Este cunoscut pentru versurile directe, videoclipurile cu atitudine și sound-ul modern care combină chalga clasică cu beat-uri trap urbane.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@LuchanoOfficial",
+    "instagram": "https://www.instagram.com/luchano.official.bg/",
+    "facebook": "https://www.facebook.com/Luchano.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/luchano-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/luchano-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/luchano-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/luchano-fanart.jpg",
+  "musicbrainz_id": "e4a43cfc-4cc6-4b8b-8a39-9c15b82e7f63"
+}
