@@ -1,0 +1,23 @@
+{
+  "artist": "Paloma",
+  "name": "Палома",
+  "alias": ["Paloma", "Paloma Todorova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Paloma Todorova",
+  "birth_date": "2001-10-10",
+  "bio": "Paloma este o artistă din noul val al muzicii pop-folk din Bulgaria, remarcată pentru stilul său urban și prezența scenică nonconformistă. Piesele sale adesea combină chalga cu ritmuri moderne de trap, atrăgând o audiență tânără.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@PalomaOfficial",
+    "instagram": "https://www.instagram.com/paloma.official.bg/",
+    "facebook": "https://www.facebook.com/PalomaOfficial"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/paloma-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/paloma-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/paloma-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/paloma-fanart.jpg",
+  "musicbrainz_id": "8af60b90-38c3-4cb2-84db-23b36dc62df0"
+}
