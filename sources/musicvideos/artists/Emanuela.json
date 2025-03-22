@@ -1,0 +1,23 @@
+{
+  "artist": "Emanuela",
+  "name": "Емануела",
+  "alias": ["Emanuela", "Emanuela Tsvetanova", "Emanuela Ivanova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Emanuela Tsvetanova Ivanova",
+  "birth_date": "1981-11-08",
+  "bio": "Emanuela este o cântăreață de muzică pop-folk din Bulgaria, cunoscută pentru stilul său provocator și vocea distinctivă. A lansat numeroase hituri care au urcat în topurile muzicale bulgare și s-a remarcat prin imaginea sa extravagantă.",
+  "active_years": "2006–prezent",
+  "labels": ["Ara Music", "Payner Music"],
+  "official_website": "https://payner.bg/artists/emanuela/",
+  "social": {
+    "youtube": "https://www.youtube.com/@EmanuelaOfficial",
+    "instagram": "https://www.instagram.com/emanuela.official/",
+    "facebook": "https://www.facebook.com/Emanuela.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/emanuela-main.jpg",
+  "poster": "https://payner.bg/images/artists/emanuela-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/emanuela-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/emanuela-fanart.jpg",
+  "musicbrainz_id": "d60f5c39-09fa-4b29-98c1-733c69ff68d3"
+}
