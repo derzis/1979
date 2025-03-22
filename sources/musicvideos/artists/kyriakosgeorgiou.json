@@ -1,0 +1,23 @@
+{
+  "artist": "Kyriakos Georgiou",
+  "name": "Κυριάκος Γεωργίου",
+  "alias": ["Kyriakos Georgiou", "Kyriakos", "Κυριάκος Γεωργίου"],
+  "country": "Cyprus",
+  "genres": ["Laïko", "Pop", "Dance", "Balkan"],
+  "birth_name": "Kyriakos Georgiou",
+  "birth_date": "1993-01-15",
+  "bio": "Kyriakos Georgiou este un cântăreț cipriot care a câștigat popularitate în Grecia și Balcani prin hiturile sale pop și laïko. A colaborat cu numeroși artiști balcanici și este apreciat pentru timbrul său vocal distinctiv și energia scenică.",
+  "active_years": "2014–prezent",
+  "labels": ["Panik Records"],
+  "official_website": "https://www.panikmusic.gr/artists/kyriakos-georgiou/",
+  "social": {
+    "youtube": "https://www.youtube.com/@KyriakosGeorgiouOfficial",
+    "instagram": "https://www.instagram.com/kyriakosgeorgiou/",
+    "facebook": "https://www.facebook.com/KyriakosGeorgiou.Official"
+  },
+  "image": "https://www.panikmusic.gr/wp-content/uploads/2021/06/kyriakos-georgiou-main.jpg",
+  "poster": "https://www.panikmusic.gr/wp-content/uploads/2021/06/kyriakos-georgiou-poster.jpg",
+  "thumbnail": "https://www.panikmusic.gr/wp-content/uploads/2021/06/kyriakos-georgiou-thumb.jpg",
+  "fanart": "https://www.panikmusic.gr/wp-content/uploads/2021/06/kyriakos-georgiou-fanart.jpg",
+  "musicbrainz_id": "e6e3a6a4-682e-4346-9a13-f2d524ab7f2d"
+}
