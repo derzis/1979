@@ -1,0 +1,23 @@
+{
+  "artist": "Biser King",
+  "name": "Бисер Кинг",
+  "alias": ["Biser King", "Biser", "Бисер К."],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Biser Marinov",
+  "birth_date": "1994-12-22",
+  "bio": "Biser King este un artist din Bulgaria cunoscut pentru stilul său puternic influențat de trap și pop-folk. Cu un look nonconformist și piese energice, a devenit popular rapid pe scena muzicii chalga contemporane.",
+  "active_years": "2020–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@BiserKingOfficial",
+    "instagram": "https://www.instagram.com/biserking/",
+    "facebook": "https://www.facebook.com/BiserKing.Official"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/biserking-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/biserking-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/biserking-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/biserking-fanart.jpg",
+  "musicbrainz_id": "56a2aa56-fd6e-4f26-b060-d5c7491c64c4"
+}
