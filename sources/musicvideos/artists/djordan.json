@@ -1,0 +1,23 @@
+{
+  "artist": "Djordan",
+  "name": "Джордан",
+  "alias": ["Djordan", "Jordan", "Джордан"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Ballad"],
+  "birth_name": "Yordan Georgiev",
+  "birth_date": "1983-01-17",
+  "bio": "Djordan este un cântăreț bulgar de muzică pop-folk și chalga, cunoscut pentru vocea sa expresivă și melodiile emoționale. A devenit unul dintre artiștii apreciați din scena muzicală Payner, remarcându-se prin baladele sale de dragoste și aparițiile elegante.",
+  "active_years": "2006–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/djordan/",
+  "social": {
+    "youtube": "https://www.youtube.com/@DjordanOfficial",
+    "instagram": "https://www.instagram.com/djordan.official/",
+    "facebook": "https://www.facebook.com/Djordan.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/djordan-main.jpg",
+  "poster": "https://payner.bg/images/artists/djordan-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/djordan-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/djordan-fanart.jpg",
+  "musicbrainz_id": "7cf78963-5cfd-4e92-9c15-99a35f994998"
+}
