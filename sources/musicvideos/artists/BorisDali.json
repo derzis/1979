@@ -1,0 +1,23 @@
+{
+  "artist": "Boris Dali",
+  "name": "Борис Дали",
+  "alias": ["Boris Dali", "Borislav Dimitrov"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Borislav Dimitrov",
+  "birth_date": "1982-03-28",
+  "bio": "Boris Dali este un cântăreț de muzică pop-folk din Bulgaria, cunoscut pentru melodiile sale ritmate și colaborările de succes. Este activ pe scena muzicală de la mijlocul anilor 2000 și este unul dintre artiștii de bază ai casei de discuri Payner.",
+  "active_years": "2005–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/borisdali/",
+  "social": {
+    "youtube": "https://www.youtube.com/@BorisDaliOfficial",
+    "instagram": "https://www.instagram.com/borisdali.official/",
+    "facebook": "https://www.facebook.com/BorisDali.Official"
+  },
+  "image": "https://payner.bg/images/artists/borisdali-main.jpg",
+  "poster": "https://payner.bg/images/artists/borisdali-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/borisdali-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/borisdali-fanart.jpg",
+  "musicbrainz_id": "2235e39b-542d-4cd9-937a-f6ac8c7a0fc9"
+}
