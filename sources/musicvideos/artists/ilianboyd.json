@@ -1,0 +1,23 @@
+{
+  "artist": "Ilian Boyd",
+  "name": "Илиян Бойд",
+  "alias": ["Ilian Boyd", "Ilian", "Ilian Boiadjiev"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Ilian Boiadjiev",
+  "birth_date": "1982-01-12",
+  "bio": "Ilian Boyd este un cântăreț bulgar de muzică pop-folk, cunoscut pentru hiturile sale energice și show-urile live captivante. A fost un nume prezent constant în industria muzicală chalga și a colaborat cu numeroși artiști de top.",
+  "active_years": "2004–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/ilian/",
+  "social": {
+    "youtube": "https://www.youtube.com/@IlianOfficial",
+    "instagram": "https://www.instagram.com/ilianboyd.official/",
+    "facebook": "https://www.facebook.com/Ilian.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/ilian-main.jpg",
+  "poster": "https://payner.bg/images/artists/ilian-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/ilian-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/ilian-fanart.jpg",
+  "musicbrainz_id": "b62a4c49-06b3-4ae5-a994-bd8e9f538420"
+}
