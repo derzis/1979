@@ -1,0 +1,23 @@
+{
+  "artist": "Brandy",
+  "name": "Бранди",
+  "alias": ["Brandy", "Brandy Popfolk"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Brandy",
+  "birth_date": "",
+  "bio": "Brandy este o interpretă bulgară de muzică pop-folk care s-a remarcat prin piese de petrecere și colaborări cu artiști cunoscuți ai genului. Deși nu este o prezență constantă în mass-media, Brandy rămâne recunoscută pentru stilul energic și pentru melodiile ușor de fredonat.",
+  "active_years": "2005–prezent",
+  "labels": ["Independent", "Sunny Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@BrandyOfficial",
+    "instagram": "https://www.instagram.com/brandy.official.bg/",
+    "facebook": "https://www.facebook.com/Brandy.Official.Page"
+  },
+  "image": "https://sunnymusic.bg/images/artists/brandy-main.jpg",
+  "poster": "https://sunnymusic.bg/images/artists/brandy-poster.jpg",
+  "thumbnail": "https://sunnymusic.bg/images/artists/brandy-thumb.jpg",
+  "fanart": "https://sunnymusic.bg/images/artists/brandy-fanart.jpg",
+  "musicbrainz_id": "b1959a7b-d38f-45e2-bd38-6214707f0c16"
+}
