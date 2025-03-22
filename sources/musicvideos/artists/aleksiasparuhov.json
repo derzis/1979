@@ -1,0 +1,23 @@
+{
+  "artist": "Aleksi Asparuhov",
+  "name": "Алекси Аспарухов",
+  "alias": ["Aleksi Asparuhov", "Aleksi", "Alexi"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Aleksi Asparuhov",
+  "birth_date": "1987-09-30",
+  "bio": "Aleksi Asparuhov este un cântăreț bulgar de muzică pop-folk și folk tradițional. Este cunoscut pentru vocea sa puternică și piesele cu teme emoționale și populare. A cântat adesea alături de alți membri ai familiei sale, printre care și Evi Asparuhov.",
+  "active_years": "2010–prezent",
+  "labels": ["Independent", "Diapason Records"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@AleksiAsparuhovOfficial",
+    "instagram": "https://www.instagram.com/aleksi_asparuhov/",
+    "facebook": "https://www.facebook.com/AleksiAsparuhov.Official"
+  },
+  "image": "https://balkanika.tv/images/artists/aleksiasparuhov-main.jpg",
+  "poster": "https://balkanika.tv/images/artists/aleksiasparuhov-poster.jpg",
+  "thumbnail": "https://balkanika.tv/images/artists/aleksiasparuhov-thumb.jpg",
+  "fanart": "https://balkanika.tv/images/artists/aleksiasparuhov-fanart.jpg",
+  "musicbrainz_id": "0a2b8a8d-2036-4b83-9b87-b18a1870a8df"
+}
