@@ -1,0 +1,23 @@
+{
+  "artist": "Anda Adam",
+  "name": "Anda Adam",
+  "alias": ["Anda Adam", "Anda"],
+  "country": "Romania",
+  "genres": ["Pop", "Dance", "House", "R&B"],
+  "birth_name": "Anda Adam",
+  "birth_date": "1980-04-27",
+  "bio": "Anda Adam este una dintre cele mai cunoscute artiste din muzica dance-pop românească. A devenit celebră în anii 2000 cu hituri precum 'Ce ți-aș face (Selecta)' și a colaborat cu artiști renumiți din România. Este recunoscută pentru vocea puternică și look-ul energic.",
+  "active_years": "1999–prezent",
+  "labels": ["Roton", "Cat Music", "MediaPro Music"],
+  "official_website": "https://andaadam.ro/",
+  "social": {
+    "youtube": "https://www.youtube.com/@AndaAdamOfficial",
+    "instagram": "https://www.instagram.com/andaadam/",
+    "facebook": "https://www.facebook.com/AndaAdamOfficial"
+  },
+  "image": "https://andaadam.ro/images/anda-main.jpg",
+  "poster": "https://andaadam.ro/images/anda-poster.jpg",
+  "thumbnail": "https://andaadam.ro/images/anda-thumb.jpg",
+  "fanart": "https://andaadam.ro/images/anda-fanart.jpg",
+  "musicbrainz_id": "0e1cf2aa-f8c2-4894-9a75-5b08c282e394"
+}
