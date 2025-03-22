@@ -1,0 +1,23 @@
+{
+  "artist": "Vania",
+  "name": "Ваня",
+  "alias": ["Vania", "Vanya", "Ваня Костова"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Vania Velkova",
+  "birth_date": "1971-02-28",
+  "bio": "Vania este o cântăreață bulgară de muzică pop-folk, cunoscută pentru stilul său melodios și textele cu încărcătură emoțională. A lansat numeroase hituri în anii 2000 și continuă să fie activă în industria muzicală chalga.",
+  "active_years": "1998–prezent",
+  "labels": ["Sunny Music", "Ara Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@VaniaOfficial",
+    "instagram": "https://www.instagram.com/vania.official.bg/",
+    "facebook": "https://www.facebook.com/Vania.Official.Page"
+  },
+  "image": "https://sunnymusic.bg/images/artists/vania-main.jpg",
+  "poster": "https://sunnymusic.bg/images/artists/vania-poster.jpg",
+  "thumbnail": "https://sunnymusic.bg/images/artists/vania-thumb.jpg",
+  "fanart": "https://sunnymusic.bg/images/artists/vania-fanart.jpg",
+  "musicbrainz_id": "66430bde-3c44-4fe9-9640-63ae343b19cf"
+}
