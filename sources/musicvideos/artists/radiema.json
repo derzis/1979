@@ -1,0 +1,23 @@
+{
+  "artist": "Radiema",
+  "name": "Радиема",
+  "alias": ["Radiema", "Radie Ma", "Радие Ма"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Radiema Ivanova",
+  "birth_date": "1996-10-29",
+  "bio": "Radiema este o tânără artistă din Bulgaria, activă în zona pop-folk și trap-folk. Cunoscută pentru stilul său urban și look-ul extravagant, a colaborat cu artiști precum Kamen, Denmaro și Diona, atrăgând rapid atenția publicului tânăr.",
+  "active_years": "2020–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@RadiemaOfficial",
+    "instagram": "https://www.instagram.com/radiema.official/",
+    "facebook": "https://www.facebook.com/Radiema.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/radiema-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/radiema-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/radiema-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/radiema-fanart.jpg",
+  "musicbrainz_id": "64f697c4-6d70-4a64-bab1-19a4e85bcce0"
+}
