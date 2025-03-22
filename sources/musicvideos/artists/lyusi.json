@@ -1,0 +1,23 @@
+{
+  "artist": "Lyusi",
+  "name": "Люси",
+  "alias": ["Lyusi", "Lyusi BG", "Lusi"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Lyusi Petrova",
+  "birth_date": "2000-06-05",
+  "bio": "Lyusi este un artist al scenei pop-folk bulgărești, influențele moderne și aparițiile îndrăznețe. Colaborările sale cu alți artiști trap-folk i-au adus rapid notorietate în rândul publicului tânăr.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@LyusiOfficial",
+    "instagram": "https://www.instagram.com/lyusi.official.bg/",
+    "facebook": "https://www.facebook.com/Lyusi.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/lyusi-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/lyusi-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/lyusi-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/lyusi-fanart.jpg",
+  "musicbrainz_id": "b9db9b7a-d24e-4d87-88e4-9d8b9ddc72cb"
+}
