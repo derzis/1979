@@ -1,0 +1,23 @@
+{
+  "artist": "Tita",
+  "name": "Тита",
+  "alias": ["Tita", "Hristina Hristova", "Кристина Христова"],
+  "country": "Bulgaria",
+  "genres": ["Pop", "Trap", "Dance", "R&B"],
+  "birth_name": "Hristina Hristova",
+  "birth_date": "1999-07-19",
+  "bio": "Tita este una dintre cele mai populare cântărețe din noua generație de artiști pop și trap din Bulgaria. Și-a câștigat faima în urma participării la show-ul X Factor și a colaborat cu producătorul Krisko. Este cunoscută pentru stilul său modern, energic și nonconformist.",
+  "active_years": "2016–prezent",
+  "labels": ["Adamand Records", "Virginia Records"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@TitaOfficial",
+    "instagram": "https://www.instagram.com/hrisistoff/",
+    "facebook": "https://www.facebook.com/Tita.Official.Page"
+  },
+  "image": "https://virginiarecords.com/wp-content/uploads/2020/10/tita-main.jpg",
+  "poster": "https://virginiarecords.com/wp-content/uploads/2020/10/tita-poster.jpg",
+  "thumbnail": "https://virginiarecords.com/wp-content/uploads/2020/10/tita-thumb.jpg",
+  "fanart": "https://virginiarecords.com/wp-content/uploads/2020/10/tita-fanart.jpg",
+  "musicbrainz_id": "e61615d0-3a3e-4e3e-a6a2-1a70c3c3b11d"
+}
