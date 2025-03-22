@@ -1,0 +1,24 @@
+{
+  "artist": "Denis Teofikov",
+  "name": "Денис Теофиков",
+  "alias": ["Denis Teofikov", "Denis", "Денис"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Denis Teofikov",
+  "birth_date": "2000-07-20",
+  "death_date": "2021-10-24",
+  "bio": "Denis Teofikov a fost un tânăr și extrem de talentat cântăreț bulgar de muzică pop-folk și trap-folk. A avut un impact major într-un timp foarte scurt, devenind un idol al noii generații până la tragicul său deces la doar 21 de ani.",
+  "active_years": "2018–2021",
+  "labels": ["Payner Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DenisTeofikovOfficial",
+    "instagram": "https://www.instagram.com/denisteofikov.official/",
+    "facebook": "https://www.facebook.com/DenisTeofikov.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/denisteofikov-main.jpg",
+  "poster": "https://payner.bg/images/artists/denisteofikov-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/denisteofikov-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/denisteofikov-fanart.jpg",
+  "musicbrainz_id": "d78f987e-9dc2-4b85-9cfa-d9e9b87f35f0"
+}
