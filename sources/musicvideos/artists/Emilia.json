@@ -1,0 +1,23 @@
+{
+  "artist": "Emilia",
+  "name": "Емилия",
+  "alias": ["Emilia", "Emiliya Valeva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Emiliya Valeva",
+  "birth_date": "1982-03-21",
+  "bio": "Emilia este o cântăreață de muzică pop-folk din Bulgaria, cunoscută pentru stilul ei romantic și vocea caldă. A devenit una dintre cele mai apreciate artiste ale genului chalga, activând sub casa de discuri Payner încă de la începutul carierei sale.",
+  "active_years": "1999–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/emilia/",
+  "social": {
+    "youtube": "https://www.youtube.com/@EmiliaOfficial",
+    "instagram": "https://www.instagram.com/emilia.music/",
+    "facebook": "https://www.facebook.com/Emilia.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/emilia-main.jpg",
+  "poster": "https://payner.bg/images/artists/emilia-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/emilia-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/emilia-fanart.jpg",
+  "musicbrainz_id": "9b2c8163-3377-43fd-a8e5-c943b4f74b86"
+}
