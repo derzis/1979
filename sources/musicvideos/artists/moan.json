@@ -1,0 +1,23 @@
+{
+  "artist": "Moan",
+  "name": "Моан",
+  "alias": ["Moan", "Moan Official"],
+  "country": "Bulgaria",
+  "genres": ["Trap-folk", "Pop-folk", "Urban"],
+  "birth_name": "Moan",
+  "birth_date": "",
+  "bio": "Moan este un artist emergent din Bulgaria, cunoscut pentru stilul său trap-folk și imaginea urbană. A câștigat popularitate în rândul tinerilor prin videoclipuri provocatoare și colaborări cu nume din noua generație chalga.",
+  "active_years": "2022–prezent",
+  "labels": ["Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@MoanOfficial",
+    "instagram": "https://www.instagram.com/moan.official/",
+    "facebook": "https://www.facebook.com/Moan.Official.Page"
+  },
+  "image": "https://moan.bg/images/moan-main.jpg",
+  "poster": "https://moan.bg/images/moan-poster.jpg",
+  "thumbnail": "https://moan.bg/images/moan-thumb.jpg",
+  "fanart": "https://moan.bg/images/moan-fanart.jpg",
+  "musicbrainz_id": "b3f1e2c2-e0fa-4df6-8eb9-5d5e385c7f5b"
+}
