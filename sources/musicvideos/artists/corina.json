@@ -1,0 +1,23 @@
+{
+  "artist": "Corina",
+  "name": "Corina",
+  "alias": ["Corina", "Corina Bud"],
+  "country": "Romania",
+  "genres": ["Pop", "Dance", "Electro-pop", "R&B"],
+  "birth_name": "Corina Bud",
+  "birth_date": "1980-01-26",
+  "bio": "Corina este o cântăreață româncă cunoscută pentru stilul său nonconformist și pentru mixul original de pop, dance și electro. Cu o imagine excentrică și piese precum 'Fără tine' și 'No Sleepin’, Corina s-a impus ca o figură aparte în muzica românească.",
+  "active_years": "2004–prezent",
+  "labels": ["Roton", "MediaPro Music", "Global Records"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@CorinaOfficial",
+    "instagram": "https://www.instagram.com/corinabud/",
+    "facebook": "https://www.facebook.com/CorinaBudOfficial"
+  },
+  "image": "https://roton.ro/images/artists/corina-main.jpg",
+  "poster": "https://roton.ro/images/artists/corina-poster.jpg",
+  "thumbnail": "https://roton.ro/images/artists/corina-thumb.jpg",
+  "fanart": "https://roton.ro/images/artists/corina-fanart.jpg",
+  "musicbrainz_id": "5dfec147-6d55-4052-bbb0-6de6cfdc8ad1"
+}
