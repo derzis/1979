@@ -1,0 +1,23 @@
+{
+  "artist": "Krisia D",
+  "name": "Крисия Д",
+  "alias": ["Krisia D", "Krisia Dimova", "Крисия"],
+  "country": "Bulgaria",
+  "genres": ["Pop", "Ballad", "Pop-folk"],
+  "birth_name": "Krisia Dimova Todorova",
+  "birth_date": "2004-06-01",
+  "bio": "Krisia D este o tânără cântăreață din Bulgaria care a devenit cunoscută publicului larg prin participarea la Eurovision Junior 2014, unde a cucerit inimile europenilor. De atunci, a continuat să evolueze muzical, abordând un stil matur între pop și balade cu influențe pop-folk.",
+  "active_years": "2014–prezent",
+  "labels": ["BNT", "Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@KrisiaDOfficial",
+    "instagram": "https://www.instagram.com/krisia.d/",
+    "facebook": "https://www.facebook.com/KrisiaD.Official.Page"
+  },
+  "image": "https://balkanika.tv/images/artists/krisiad-main.jpg",
+  "poster": "https://balkanika.tv/images/artists/krisiad-poster.jpg",
+  "thumbnail": "https://balkanika.tv/images/artists/krisiad-thumb.jpg",
+  "fanart": "https://balkanika.tv/images/artists/krisiad-fanart.jpg",
+  "musicbrainz_id": "a8cdbb02-5196-43d7-921f-b98c37b43aa6"
+}
