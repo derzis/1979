@@ -1,0 +1,23 @@
+{
+  "artist": "DJ Tsetsi Ludata Glava",
+  "name": "DJ Цецо Лудата Глава",
+  "alias": ["DJ Tsetsi Ludata Glava", "Tsetsi Ludata Glava", "Цецо Лудата Глава"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Club", "Remix"],
+  "birth_name": "Tsvetan Ivanov",
+  "birth_date": "1988-11-11",
+  "bio": "DJ Tsetsi Ludata Glava este unul dintre cei mai cunoscuți DJ din Bulgaria specializat în remixuri de muzică pop-folk și chalga. Cu un stil exploziv și o prezență de neuitat, el este invitat constant în cluburi și evenimente din toată țara.",
+  "active_years": "2010–prezent",
+  "labels": ["Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DJTsetsiOfficial",
+    "instagram": "https://www.instagram.com/djtsetsi.ludataglava/",
+    "facebook": "https://www.facebook.com/DJTsetsiLudataGlava.Official"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/djtsetsi-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/djtsetsi-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/djtsetsi-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/djtsetsi-fanart.jpg",
+  "musicbrainz_id": "f472d9c6-2e5c-46d6-89c3-7ec53b5a732d"
+}
