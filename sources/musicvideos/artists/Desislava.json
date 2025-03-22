@@ -1,0 +1,23 @@
+{
+  "artist": "Desi Slava",
+  "name": "Деси Слава",
+  "alias": ["Desi Slava", "Desislava", "Desislava Ivanova Doneva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Pop", "Chalga"],
+  "birth_name": "Desislava Ivanova Doneva",
+  "birth_date": "1979-03-07",
+  "bio": "Desi Slava este o cântăreață bulgară cunoscută pentru vocea sa impresionantă și abilitatea de a interpreta diferite genuri muzicale. A avut o carieră de succes atât în pop-folk, cât și în muzica pop clasică. Este una dintre cele mai respectate și versatile artiste din Bulgaria.",
+  "active_years": "1998–prezent",
+  "labels": ["Payner Music", "Nova Music"],
+  "official_website": "https://payner.bg/artists/desislava/",
+  "social": {
+    "youtube": "https://www.youtube.com/@DesiSlavaOfficial",
+    "instagram": "https://www.instagram.com/desislava_official/",
+    "facebook": "https://www.facebook.com/Desislava.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/desislava-main.jpg",
+  "poster": "https://payner.bg/images/artists/desislava-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/desislava-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/desislava-fanart.jpg",
+  "musicbrainz_id": "e4b02e7a-c9f0-4f26-9a3f-76a6c7e9a3e3"
+}
