@@ -1,0 +1,23 @@
+{
+  "artist": "Kristian Kirilov",
+  "name": "Кристиан Кирилов",
+  "alias": ["Kristian Kirilov", "Krisko", "Кико"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Pop", "Club"],
+  "birth_name": "Kristian Kirilov",
+  "birth_date": "1989-12-06",
+  "bio": "Kristian Kirilov este cunoscut publicului din Bulgaria atât ca actor, cât și ca artist pop-folk. Și-a câștigat faima prin apariții în seriale TV, dar și prin colaborările muzicale cu artiști din genul trap-folk și chalga. Este cunoscut pentru stilul său modern și prezența impunătoare.",
+  "active_years": "2019–prezent",
+  "labels": ["Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@KristianKirilovOfficial",
+    "instagram": "https://www.instagram.com/kristiankirilov/",
+    "facebook": "https://www.facebook.com/KristianKirilov.Official"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/kristiankirilov-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/kristiankirilov-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/kristiankirilov-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/kristiankirilov-fanart.jpg",
+  "musicbrainz_id": "d3e67698-8f68-4cd4-891a-bd405e1c0bd7"
+}
