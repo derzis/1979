@@ -1,0 +1,23 @@
+{
+  "artist": "Deni Kalinov",
+  "name": "Дени Калинов",
+  "alias": ["Deni Kalinov", "Deni", "Дени Калинов"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Denislav Kalinov",
+  "birth_date": "1999-04-14",
+  "bio": "Deni Kalinov este un tânăr artist bulgar de muzică pop-folk, cunoscut pentru stilul său trap-folk modern și versurile cu mesaj direct. A devenit rapid popular în rândul publicului tânăr datorită pieselor sale energice și colaborărilor din zona urbană.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DeniKalinovOfficial",
+    "instagram": "https://www.instagram.com/denikalinov.official/",
+    "facebook": "https://www.facebook.com/DeniKalinov.Official"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/denikalinov-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/denikalinov-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/denikalinov-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/denikalinov-fanart.jpg",
+  "musicbrainz_id": "0fd72802-5e5c-44a4-85e3-7f39411e6d9f"
+}
