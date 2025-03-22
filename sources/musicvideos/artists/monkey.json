@@ -1,0 +1,23 @@
+{
+  "artist": "Monkey",
+  "name": "Monkey",
+  "alias": ["Monkey", "Monkey Official"],
+  "country": "Bulgaria",
+  "genres": ["Trap-folk", "Pop-folk", "Club"],
+  "birth_name": "Kristiyan Ivanov",
+  "birth_date": "2001-09-15",
+  "bio": "Monkey este un tânăr artist din Bulgaria care s-a remarcat prin stilul său nonconformist și trap-folk modern. Cu versuri directe, beat-uri de club și videoclipuri provocatoare, a devenit rapid popular în rândul publicului tânăr.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@MonkeyOfficial",
+    "instagram": "https://www.instagram.com/monkey.official.bg/",
+    "facebook": "https://www.facebook.com/Monkey.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/monkey-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/monkey-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/monkey-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/monkey-fanart.jpg",
+  "musicbrainz_id": "41c9771a-bab4-4f87-93b7-4c75ad5caa56"
+}
