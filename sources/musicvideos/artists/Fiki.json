@@ -1,0 +1,23 @@
+{
+  "artist": "Fiki",
+  "name": "Фики",
+  "alias": ["Fiki", "Fikret Tuncher Fikret"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Dance-pop"],
+  "birth_name": "Fikret Tuncher Fikret",
+  "birth_date": "1993-03-03",
+  "bio": "Fiki este un tânăr și carismatic cântăreț de pop-folk din Bulgaria, fiul celebrului Toni Storaro. A câștigat rapid popularitate prin vocea sa puternică și numeroasele hituri lansate în colaborare cu artiști cunoscuți.",
+  "active_years": "2013–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/fiki/",
+  "social": {
+    "youtube": "https://www.youtube.com/@FikiOfficial",
+    "instagram": "https://www.instagram.com/fiki.official/",
+    "facebook": "https://www.facebook.com/Fiki.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/fiki-main.jpg",
+  "poster": "https://payner.bg/images/artists/fiki-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/fiki-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/fiki-fanart.jpg",
+  "musicbrainz_id": "1c73bc47-9d5c-40f1-ae7e-7be13b52fd96"
+}
