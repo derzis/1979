@@ -1,0 +1,23 @@
+{
+  "artist": "Plamena",
+  "name": "Пламена",
+  "alias": ["Plamena", "Plamena Petrova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Pop"],
+  "birth_name": "Plamena Petrova",
+  "birth_date": "1990-04-19",
+  "bio": "Plamena este o cântăreață bulgară care a devenit cunoscută după participarea la 'Music Idol' și s-a remarcat prin trecerea ei în muzica pop-folk. Este cunoscută pentru vocea sa puternică și pentru piesele care combină stiluri moderne cu influențe chalga.",
+  "active_years": "2008–prezent",
+  "labels": ["Ara Music", "Sunny Music", "Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@PlamenaOfficial",
+    "instagram": "https://www.instagram.com/plamena.official/",
+    "facebook": "https://www.facebook.com/Plamena.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/plamena-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/plamena-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/plamena-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/plamena-fanart.jpg",
+  "musicbrainz_id": "3743a0e1-4719-4a3d-a2f5-3101d5b1622c"
+}
