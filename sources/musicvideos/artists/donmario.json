@@ -1,0 +1,23 @@
+{
+  "artist": "Don Mario",
+  "name": "Дон Марио",
+  "alias": ["Don Mario", "Mario Dimitrov"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Party-folk"],
+  "birth_name": "Mario Dimitrov",
+  "birth_date": "1988-07-20",
+  "bio": "Don Mario este un interpret bulgar de muzică pop-folk cunoscut pentru piesele de petrecere și colaborările cu artiști de renume din chalga. Are un stil energic, orientat spre publicul care preferă melodiile dansante și atmosfera de club.",
+  "active_years": "2016–prezent",
+  "labels": ["Diapason Records"],
+  "official_website": "https://diapasonrecords.com/don-mario",
+  "social": {
+    "youtube": "https://www.youtube.com/@DonMarioOfficial",
+    "instagram": "https://www.instagram.com/donmario.official/",
+    "facebook": "https://www.facebook.com/DonMario.Official.Page"
+  },
+  "image": "https://diapasonrecords.com/images/artists/donmario-main.jpg",
+  "poster": "https://diapasonrecords.com/images/artists/donmario-poster.jpg",
+  "thumbnail": "https://diapasonrecords.com/images/artists/donmario-thumb.jpg",
+  "fanart": "https://diapasonrecords.com/images/artists/donmario-fanart.jpg",
+  "musicbrainz_id": "ebf9d683-ec3b-47f4-a8d3-71cb57d3e758"
+}
