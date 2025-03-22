@@ -1,0 +1,23 @@
+{
+  "artist": "Ax Dain",
+  "name": "Акс Дейн",
+  "alias": ["Ax Dain", "AX Dain", "Акс Дейн"],
+  "country": "Bulgaria",
+  "genres": ["Trap-folk", "Hip-Hop", "Pop-folk", "Urban"],
+  "birth_name": "Asen Danev",
+  "birth_date": "1998-12-08",
+  "bio": "Ax Dain este un artist emergent din Bulgaria, cunoscut pentru combinația unică de trap și muzică pop-folk. Cu o imagine urbană și o atitudine directă, a devenit o figură distinctă în scena trap-folk balcanică.",
+  "active_years": "2020–prezent",
+  "labels": ["Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@AxDainOfficial",
+    "instagram": "https://www.instagram.com/ax_dain/",
+    "facebook": "https://www.facebook.com/AxDain.Official"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/axdain-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/axdain-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/axdain-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/axdain-fanart.jpg",
+  "musicbrainz_id": "1f7bb4b4-6432-4e6d-982f-72d728d79080"
+}
