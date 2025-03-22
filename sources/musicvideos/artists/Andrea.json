@@ -1,0 +1,23 @@
+{
+  "artist": "Andrea",
+  "name": "Андреа",
+  "alias": ["Andrea", "Teodora Rumenova Andreeva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Dance", "Chalga"],
+  "birth_name": "Teodora Rumenova Andreeva",
+  "birth_date": "1987-01-23",
+  "bio": "Andrea este o cântăreață bulgară de muzică pop-folk și dance, cunoscută pentru imaginea sa provocatoare și colaborările internaționale. A debutat în 2006 și a devenit rapid una dintre cele mai populare artiste ale genului. Este cunoscută și pentru colaborarea cu Costi Ioniță în proiectul Sahara.",
+  "active_years": "2006–prezent",
+  "labels": ["Payner Music", "Roton", "HaHaHa Production"],
+  "official_website": "https://andrea.bg/",
+  "social": {
+    "youtube": "https://www.youtube.com/@AndreaOfficial",
+    "instagram": "https://www.instagram.com/andreabulgaria/",
+    "facebook": "https://www.facebook.com/andreabg"
+  },
+  "image": "https://andrea.bg/images/andrea-main.jpg",
+  "poster": "https://andrea.bg/images/poster.jpg",
+  "thumbnail": "https://andrea.bg/images/thumb.jpg",
+  "fanart": "https://andrea.bg/images/fanart.jpg",
+  "musicbrainz_id": "6a23988a-df8a-4ae4-94c3-6eb97a37d29a"
+}
