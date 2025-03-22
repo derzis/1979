@@ -1,0 +1,23 @@
+{
+  "artist": "Toni Storaro",
+  "name": "Тони Стораро",
+  "alias": ["Toni Storaro", "Tuncher Fikret", "Тунчер Фикрет"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Tuncher Fikret",
+  "birth_date": "1976-08-02",
+  "bio": "Toni Storaro este unul dintre cei mai emblematici cântăreți de pop-folk din Bulgaria. Cu o voce inconfundabilă și o prezență scenică puternică, a lansat numeroase hituri și este considerat o figură legendară în muzica chalga. Este tatăl cântărețului Fiki.",
+  "active_years": "2000–prezent",
+  "labels": ["Diapason Records", "Payner Music"],
+  "official_website": "https://www.diapasonrecords.com/toni-storaro",
+  "social": {
+    "youtube": "https://www.youtube.com/@ToniStoraroOfficial",
+    "instagram": "https://www.instagram.com/tonistoraro/",
+    "facebook": "https://www.facebook.com/ToniStoraro.Official"
+  },
+  "image": "https://diapasonrecords.com/images/artists/tonistoraro-main.jpg",
+  "poster": "https://diapasonrecords.com/images/artists/tonistoraro-poster.jpg",
+  "thumbnail": "https://diapasonrecords.com/images/artists/tonistoraro-thumb.jpg",
+  "fanart": "https://diapasonrecords.com/images/artists/tonistoraro-fanart.jpg",
+  "musicbrainz_id": "18f1e655-b2cf-4b48-a90e-6f75e3c99272"
+}
