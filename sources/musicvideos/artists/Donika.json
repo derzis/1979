@@ -1,0 +1,23 @@
+{
+  "artist": "Donika",
+  "name": "Доника",
+  "alias": ["Donika", "Donika Stefanova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Donika Stefanova",
+  "birth_date": "2003-12-12",
+  "bio": "Donika este o tânără cântăreață de muzică pop-folk din Bulgaria, parte a noii generații de artiști chalga. Cu o imagine proaspătă și piese care prind rapid în mediul online, ea se face remarcată prin stilul autentic și vocea sa clară.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@DonikaOfficial",
+    "instagram": "https://www.instagram.com/donika.official.bg/",
+    "facebook": "https://www.facebook.com/Donika.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/donika-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/donika-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/donika-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/donika-fanart.jpg",
+  "musicbrainz_id": "f0424b3b-0cc5-4a40-975e-9e276ee218b0"
+}
