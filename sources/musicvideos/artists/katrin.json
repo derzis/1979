@@ -1,0 +1,23 @@
+{
+  "artist": "Katrin",
+  "name": "Катрин",
+  "alias": ["Katrin", "Katrin Official"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Katrin Georgieva",
+  "birth_date": "1998-05-09",
+  "bio": "Katrin este o cântăreață tânără din Bulgaria care a intrat pe scena pop-folk cu o imagine fresh și un stil trap-folk modern. Este apreciată pentru atitudinea sa îndrăzneață și colaborările cu artiști din noul val al muzicii chalga.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@KatrinOfficial",
+    "instagram": "https://www.instagram.com/katrin.official.bg/",
+    "facebook": "https://www.facebook.com/Katrin.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/katrin-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/katrin-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/katrin-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/katrin-fanart.jpg",
+  "musicbrainz_id": "deeb9c2b-c4a1-4b5b-8dc2-2d3f1f1c4231"
+}
