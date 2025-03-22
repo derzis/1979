@@ -1,0 +1,23 @@
+{
+  "artist": "Tina",
+  "name": "Тина",
+  "alias": ["Tina", "Tina Official", "Тина Официално"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Kristina Ivanova",
+  "birth_date": "2002-08-25",
+  "bio": "Tina este o cântăreață tânără din Bulgaria, parte din noul val de artiști pop-folk care combină influențe trap cu muzica tradițională chalga. Cu un stil modern și o imagine provocatoare, Tina s-a făcut remarcată rapid pe scena muzicală urbană.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@TinaOfficial",
+    "instagram": "https://www.instagram.com/tina.official.bg/",
+    "facebook": "https://www.facebook.com/Tina.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/tina-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/tina-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/tina-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/tina-fanart.jpg",
+  "musicbrainz_id": "c57763a9-2bd6-46c2-a6d0-d9f901dc02e2"
+}
