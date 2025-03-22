@@ -1,0 +1,23 @@
+{
+  "artist": "Evi Asparuhov",
+  "name": "Еви Аспарухов",
+  "alias": ["Evi Asparuhov", "Evi", "Evy"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Ballad"],
+  "birth_name": "Evelin Asparuhov",
+  "birth_date": "1990-11-19",
+  "bio": "Evi Asparuhov este un cântăreț bulgar de muzică pop-folk cunoscut pentru vocea sa caldă și piese de dragoste sensibile. Cu o carieră activă pe scena chalga, Evi a atras un public loial datorită stilului său autentic și interpretărilor emoționale.",
+  "active_years": "2014–prezent",
+  "labels": ["Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@EviAsparuhovOfficial",
+    "instagram": "https://www.instagram.com/evi_asparuhov/",
+    "facebook": "https://www.facebook.com/EviAsparuhov.Official"
+  },
+  "image": "https://balkanika.tv/images/artists/eviasparuhov-main.jpg",
+  "poster": "https://balkanika.tv/images/artists/eviasparuhov-poster.jpg",
+  "thumbnail": "https://balkanika.tv/images/artists/eviasparuhov-thumb.jpg",
+  "fanart": "https://balkanika.tv/images/artists/eviasparuhov-fanart.jpg",
+  "musicbrainz_id": "fe55a9a5-10df-4ea8-9aef-d4fc15d44a2c"
+}
