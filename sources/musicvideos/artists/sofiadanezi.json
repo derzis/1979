@@ -1,0 +1,23 @@
+{
+  "artist": "Sofia Danezi",
+  "name": "София Денези",
+  "alias": ["Sofia Danezi", "Sofiya Danezi", "София"],
+  "country": "Greece",
+  "genres": ["Pop-folk", "Balkan", "Laïko", "Dance"],
+  "birth_name": "Sofia Danezi",
+  "birth_date": "1995-09-10",
+  "bio": "Sofia Danezi este o cântăreață de origine greacă, cunoscută pentru fuziunea dintre muzica laïko, pop-folk balcanic și dance modern. A devenit populară în Grecia, Bulgaria și Albania, fiind recunoscută pentru vocea puternică și look-ul ei extravagant.",
+  "active_years": "2016–prezent",
+  "labels": ["Panik Records", "Balkanika Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SofiaDaneziOfficial",
+    "instagram": "https://www.instagram.com/sofiadanezi/",
+    "facebook": "https://www.facebook.com/SofiaDanezi.Official"
+  },
+  "image": "https://balkanika.tv/images/artists/sofiadanezi-main.jpg",
+  "poster": "https://balkanika.tv/images/artists/sofiadanezi-poster.jpg",
+  "thumbnail": "https://balkanika.tv/images/artists/sofiadanezi-thumb.jpg",
+  "fanart": "https://balkanika.tv/images/artists/sofiadanezi-fanart.jpg",
+  "musicbrainz_id": "3d798f80-7a8a-4062-a81d-dcb79feeb9ae"
+}
