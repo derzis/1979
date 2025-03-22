@@ -1,0 +1,23 @@
+{
+  "artist": "Sonya Nemska",
+  "name": "Соня Немска",
+  "alias": ["Sonya Nemska", "Sonya", "Соня"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Sonya Nemska",
+  "birth_date": "1978-07-16",
+  "bio": "Sonya Nemska este o cântăreață de muzică pop-folk din Bulgaria, cunoscută pentru vocea sa puternică și pentru melodiile sale cu influențe tradiționale. Este o prezență constantă pe scena muzicală chalga și are o carieră de peste două decenii.",
+  "active_years": "1999–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/sonyanemska/",
+  "social": {
+    "youtube": "https://www.youtube.com/@SonyaNemskaOfficial",
+    "instagram": "https://www.instagram.com/sonyanemska.official/",
+    "facebook": "https://www.facebook.com/SonyaNemska.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/sonyanemska-main.jpg",
+  "poster": "https://payner.bg/images/artists/sonyanemska-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/sonyanemska-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/sonyanemska-fanart.jpg",
+  "musicbrainz_id": "ee8be0cf-9c89-4e20-b6f4-2ed03f94eafd"
+}
