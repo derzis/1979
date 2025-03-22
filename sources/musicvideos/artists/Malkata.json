@@ -1,0 +1,23 @@
+{
+  "artist": "Malkata",
+  "name": "Малката",
+  "alias": ["Malkata", "Vanesa", "Vane$$a", "Vanessa Georgieva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Vanessa Georgieva",
+  "birth_date": "2001-05-14",
+  "bio": "Malkata este o artistă tânără și talentată din Bulgaria, cunoscută pentru stilul ei modern care îmbină chalga cu influențe de trap. A devenit populară în rândul tinerilor datorită prezenței online și pieselor virale lansate pe YouTube.",
+  "active_years": "2018–prezent",
+  "labels": ["Hit Mix Music", "Black Star Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@MalkataOfficial",
+    "instagram": "https://www.instagram.com/vanessa.malkata/",
+    "facebook": "https://www.facebook.com/MalkataOfficial"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/malkata-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/malkata-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/malkata-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/malkata-fanart.jpg",
+  "musicbrainz_id": "c890c805-1c3f-4c64-9efb-56104f62e534"
+}
