@@ -1,0 +1,23 @@
+{
+  "artist": "Miro",
+  "name": "Миро",
+  "alias": ["Miro", "Miro Karizhkov", "Miro from KariZma"],
+  "country": "Bulgaria",
+  "genres": ["Pop", "Dance", "Ballad"],
+  "birth_name": "Miroslav Kostadinov",
+  "birth_date": "1976-03-10",
+  "bio": "Miro este un cântăreț și compozitor bulgar, cunoscut inițial ca parte a duetului pop KariZma. După destrămarea grupului, a avut o carieră solo de succes, reprezentând Bulgaria la Eurovision 2010. Este apreciat pentru vocea sa expresivă și versatilitatea artistică.",
+  "active_years": "1999–prezent",
+  "labels": ["Virginia Records", "Monte Music"],
+  "official_website": "https://miro.bg/",
+  "social": {
+    "youtube": "https://www.youtube.com/@MiroOfficial",
+    "instagram": "https://www.instagram.com/miro.bg/",
+    "facebook": "https://www.facebook.com/miro.karizma"
+  },
+  "image": "https://miro.bg/images/miro-main.jpg",
+  "poster": "https://miro.bg/images/miro-poster.jpg",
+  "thumbnail": "https://miro.bg/images/miro-thumb.jpg",
+  "fanart": "https://miro.bg/images/miro-fanart.jpg",
+  "musicbrainz_id": "2c4b2676-4d2c-4bfb-97cd-3db9f304f780"
+}
