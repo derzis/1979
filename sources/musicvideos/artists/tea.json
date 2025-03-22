@@ -1,0 +1,23 @@
+{
+  "artist": "Tea",
+  "name": "Теа",
+  "alias": ["Tea", "Thea", "Теа"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Teodora Angelova",
+  "birth_date": "2000-10-04",
+  "bio": "Tea este o tânără artistă din Bulgaria care s-a afirmat rapid în muzica pop-folk modernă, combinând elemente tradiționale cu trap și beat-uri urbane. Cu o imagine fresh și piese provocatoare, Tea este parte din noul val chalga.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@TeaOfficial",
+    "instagram": "https://www.instagram.com/tea.official.bg/",
+    "facebook": "https://www.facebook.com/Tea.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/tea-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/tea-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/tea-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/tea-fanart.jpg",
+  "musicbrainz_id": "ec289f14-dc85-4f82-a08e-c7b5b97e5ecf"
+}
