@@ -1,0 +1,23 @@
+{
+  "artist": "Tedi Aleksandrova",
+  "name": "Теди Александрова",
+  "alias": ["Tedi Aleksandrova", "Tedi", "Teodora Aleksandrova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Teodora Aleksandrova",
+  "birth_date": "1991-12-30",
+  "bio": "Tedi Aleksandrova este o cântăreață bulgară de muzică pop-folk cunoscută pentru stilul său energic și nonconformist. A devenit una dintre cele mai populare figuri feminine ale genului chalga din noua generație de artiști.",
+  "active_years": "2012–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@TediAleksandrovaOfficial",
+    "instagram": "https://www.instagram.com/tedialeksandrova.official/",
+    "facebook": "https://www.facebook.com/TediAleksandrova.Official"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/tedialeksandrova-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/tedialeksandrova-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/tedialeksandrova-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/tedialeksandrova-fanart.jpg",
+  "musicbrainz_id": "36e78015-fc47-4d0b-947c-11efce4f40ff"
+}
