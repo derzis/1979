@@ -1,0 +1,23 @@
+{
+  "artist": "Cristina Pucean",
+  "name": "Cristina Pucean",
+  "alias": ["Cristina Pucean", "Pucean", "Cristina P."],
+  "country": "Romania",
+  "genres": ["Manele", "Pop-folk", "Dance", "Club"],
+  "birth_name": "Cristina Pucean",
+  "birth_date": "1995-11-17",
+  "bio": "Cristina Pucean este o dansatoare, influenceriță și cântăreață din România, cunoscută pentru aparițiile sale în videoclipuri de manele și pop-folk balcanic. Stilul său provocator, carisma și colaborările cu artiști de top au propulsat-o în centrul atenției publice.",
+  "active_years": "2019–prezent",
+  "labels": ["Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@CristinaPuceanOfficial",
+    "instagram": "https://www.instagram.com/cristinapucean/",
+    "facebook": "https://www.facebook.com/CristinaPucean.Official.Page"
+  },
+  "image": "https://balkanmusic.ro/images/artists/cristinapucean-main.jpg",
+  "poster": "https://balkanmusic.ro/images/artists/cristinapucean-poster.jpg",
+  "thumbnail": "https://balkanmusic.ro/images/artists/cristinapucean-thumb.jpg",
+  "fanart": "https://balkanmusic.ro/images/artists/cristinapucean-fanart.jpg",
+  "musicbrainz_id": "c0642f0f-62df-4475-8cfc-91ec635c5cd5"
+}
