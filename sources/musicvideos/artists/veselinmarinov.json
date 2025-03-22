@@ -1,0 +1,23 @@
+{
+  "artist": "Veselin Marinov",
+  "name": "Веселин Маринов",
+  "alias": ["Veselin Marinov", "Веско Маринов", "Vesko Marinov"],
+  "country": "Bulgaria",
+  "genres": ["Pop", "Schlager", "Ballad"],
+  "birth_name": "Veselin Tzinzov Marinov",
+  "birth_date": "1961-08-04",
+  "bio": "Veselin Marinov este unul dintre cei mai longevivi și apreciați interpreți de muzică pop și baladă din Bulgaria. Este cunoscut pentru vocea sa caldă și repertoriul bogat în cântece romantice și patriotice. De-a lungul carierei sale, a lansat peste 20 de albume și a susținut sute de concerte.",
+  "active_years": "1981–prezent",
+  "labels": ["Veselin Marinov Ltd.", "Balkanton", "Mega Music"],
+  "official_website": "https://veselinmarinov.bg/",
+  "social": {
+    "youtube": "https://www.youtube.com/@VeselinMarinovOfficial",
+    "instagram": "https://www.instagram.com/veselinmarinov.official/",
+    "facebook": "https://www.facebook.com/veselinmarinov.official"
+  },
+  "image": "https://veselinmarinov.bg/assets/img/veselin-main.jpg",
+  "poster": "https://veselinmarinov.bg/assets/img/veselin-poster.jpg",
+  "thumbnail": "https://veselinmarinov.bg/assets/img/veselin-thumb.jpg",
+  "fanart": "https://veselinmarinov.bg/assets/img/veselin-fanart.jpg",
+  "musicbrainz_id": "f4361c1e-4016-4a49-935f-3b49c8233463"
+}
