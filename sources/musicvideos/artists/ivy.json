@@ -1,0 +1,23 @@
+{
+  "artist": "Ivy",
+  "name": "Айви",
+  "alias": ["Ivy", "Айви", "Ivi"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Iveta Todorova",
+  "birth_date": "1999-06-01",
+  "bio": "Ivy este o artistă din noul val al muzicii pop-folk din Bulgaria, cunoscută pentru fuziunea dintre trap modern și chalga clasică. A atras atenția publicului prin stilul ei nonconformist, colaborări fresh și apariții spectaculoase în videoclipuri.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@IvyOfficial",
+    "instagram": "https://www.instagram.com/ivy.official.bg/",
+    "facebook": "https://www.facebook.com/Ivy.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/ivy-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/ivy-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/ivy-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/ivy-fanart.jpg",
+  "musicbrainz_id": "abf3a186-40a3-4e82-89b3-fcbda59e9583"
+}
