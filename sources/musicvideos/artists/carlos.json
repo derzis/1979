@@ -1,0 +1,23 @@
+{
+  "artist": "Carlos",
+  "name": "Карлос",
+  "alias": ["Carlos", "Karlos", "Карлос"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Ballad"],
+  "birth_name": "Carlos Nikolov",
+  "birth_date": "1983-02-19",
+  "bio": "Carlos este un cântăreț bulgar de muzică pop-folk, cunoscut pentru piesele sale romantice și vocea profundă. Activ de peste un deceniu, el a lansat numeroase hituri apreciate de publicul chalga, fiind o prezență constantă în cluburile și evenimentele de profil.",
+  "active_years": "2006–prezent",
+  "labels": ["Sunny Music", "Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@CarlosOfficial",
+    "instagram": "https://www.instagram.com/carlos.official.bg/",
+    "facebook": "https://www.facebook.com/Carlos.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/carlos-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/carlos-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/carlos-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/carlos-fanart.jpg",
+  "musicbrainz_id": "3ba48cb1-bc41-4429-81c5-46f623bb88e3"
+}
