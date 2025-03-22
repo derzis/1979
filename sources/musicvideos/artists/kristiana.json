@@ -1,0 +1,23 @@
+{
+  "artist": "Kristiana",
+  "name": "Кристиана",
+  "alias": ["Kristiana", "Kristiana Official", "Кристиана БГ"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Kristiana Nikolova",
+  "birth_date": "2001-06-23",
+  "bio": "Kristiana este o tânără cântăreață pop-folk din Bulgaria, remarcată pentru vocea ei delicată și stilul modern, cu influențe trap. A devenit cunoscută prin colaborări cu artiști din scena urbană bulgară și videoclipuri vizual spectaculoase.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@KristianaOfficial",
+    "instagram": "https://www.instagram.com/kristiana.official.bg/",
+    "facebook": "https://www.facebook.com/Kristiana.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/kristiana-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/kristiana-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/kristiana-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/kristiana-fanart.jpg",
+  "musicbrainz_id": "7c48d6a1-7ec4-4ac8-83f3-2548374fa85d"
+}
