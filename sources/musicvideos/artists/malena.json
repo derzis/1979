@@ -1,0 +1,23 @@
+{
+  "artist": "Malena",
+  "name": "Малена",
+  "alias": ["Malena", "Malena Official"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Malena Ivanova",
+  "birth_date": "2005-02-20",
+  "bio": "Malena este o tânără cântăreață bulgară care a câștigat popularitate rapid datorită stilului său trap-folk și prezenței moderne. Cu un look fresh și o voce expresivă, ea face parte din noua generație de artiști chalga.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@MalenaOfficial",
+    "instagram": "https://www.instagram.com/malena.official.bg/",
+    "facebook": "https://www.facebook.com/Malena.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/malena-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/malena-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/malena-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/malena-fanart.jpg",
+  "musicbrainz_id": "a248da8b-16a5-4ef2-81df-80217e1c0bbf"
+}
