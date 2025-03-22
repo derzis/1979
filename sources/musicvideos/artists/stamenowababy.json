@@ -1,0 +1,23 @@
+{
+  "artist": "Stamenowa Baby",
+  "name": "Стаменова Бейби",
+  "alias": ["Stamenowa Baby", "Stamenova", "Stamenowa"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Silviya Stamenova",
+  "birth_date": "1999-10-16",
+  "bio": "Stamenowa Baby este o artistă din noul val al muzicii pop-folk bulgărești, cunoscută pentru imaginea sa extravagantă, piesele provocatoare și versurile cu atitudine. Cu un stil urban și colaborări frecvente cu artiști trap-folk, a atras rapid un public tânăr.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@StamenowaBabyOfficial",
+    "instagram": "https://www.instagram.com/stamenowa.baby/",
+    "facebook": "https://www.facebook.com/Stamenowa.Baby.Official"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/stamenowa-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/stamenowa-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/stamenowa-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/stamenowa-fanart.jpg",
+  "musicbrainz_id": "183ee6be-b16f-4d7b-981e-cfd8f2701a4a"
+}
