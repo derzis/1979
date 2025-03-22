@@ -1,0 +1,23 @@
+{
+  "artist": "Konstantin",
+  "name": "Константин",
+  "alias": ["Konstantin", "Koko", "Konstantin Slavchev"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Konstantin Slavchev",
+  "birth_date": "1976-07-17",
+  "bio": "Konstantin este unul dintre cei mai apreciați cântăreți bulgari de pop-folk, cu o carieră de succes și numeroase hituri lansate de-a lungul anilor. Este cunoscut pentru vocea sa gravă și pentru prezența carismatică pe scenă.",
+  "active_years": "1999–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/konstantin/",
+  "social": {
+    "youtube": "https://www.youtube.com/@KonstantinOfficial",
+    "instagram": "https://www.instagram.com/konstantin.music/",
+    "facebook": "https://www.facebook.com/Konstantin.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/konstantin-main.jpg",
+  "poster": "https://payner.bg/images/artists/konstantin-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/konstantin-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/konstantin-fanart.jpg",
+  "musicbrainz_id": "497ae1f0-bde7-4a65-b87a-d5d0a7a3c1b4"
+}
