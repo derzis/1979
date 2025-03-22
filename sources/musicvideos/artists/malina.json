@@ -1,0 +1,23 @@
+{
+  "artist": "Malina",
+  "name": "Малина",
+  "alias": ["Malina", "Malina Naydenova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Dance"],
+  "birth_name": "Malina Naydenova",
+  "birth_date": "1967-06-07",
+  "bio": "Malina este una dintre cele mai elegante și longevive artiste ale muzicii pop-folk din Bulgaria. Cu un stil rafinat și o prezență scenică impunătoare, a lansat numeroase hituri și este considerată una dintre reginele chalga.",
+  "active_years": "1998–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/malina/",
+  "social": {
+    "youtube": "https://www.youtube.com/@MalinaOfficial",
+    "instagram": "https://www.instagram.com/malina.official/",
+    "facebook": "https://www.facebook.com/Malina.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/malina-main.jpg",
+  "poster": "https://payner.bg/images/artists/malina-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/malina-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/malina-fanart.jpg",
+  "musicbrainz_id": "fcd33760-8936-4b99-a407-99bbd4d729d3"
+}
