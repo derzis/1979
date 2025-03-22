@@ -1,0 +1,23 @@
+{
+  "artist": "Yanitsa",
+  "name": "Яница",
+  "alias": ["Yanitsa", "Yanitza", "Yana Nedelcheva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Yana Nedelcheva",
+  "birth_date": "1983-05-17",
+  "bio": "Yanitsa este o cântăreață bulgară de pop-folk cunoscută pentru vocea sa răsunătoare și stilul său energic. Activă pe scena muzicală de la începutul anilor 2000, a lansat numeroase hituri și este una dintre cele mai constante prezențe din genul chalga.",
+  "active_years": "2001–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/yanitsa/",
+  "social": {
+    "youtube": "https://www.youtube.com/@YanitsaOfficial",
+    "instagram": "https://www.instagram.com/yanitsa.official/",
+    "facebook": "https://www.facebook.com/Yanitsa.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/yanitsa-main.jpg",
+  "poster": "https://payner.bg/images/artists/yanitsa-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/yanitsa-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/yanitsa-fanart.jpg",
+  "musicbrainz_id": "7f7d49a3-5b6f-44a3-944f-003746d927c7"
+}
