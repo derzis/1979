@@ -1,0 +1,23 @@
+{
+  "artist": "Alana",
+  "name": "Алана",
+  "alias": ["Alana", "Alana Official"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Alana Petrova",
+  "birth_date": "2001-03-22",
+  "bio": "Alana este o tânără artistă emergentă din Bulgaria care s-a remarcat prin vocea sa distinctă și stilul său trap-folk modern. A devenit cunoscută pe rețelele sociale și în scena muzicală prin colaborări cu alți artiști din noul val chalga.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@AlanaOfficial",
+    "instagram": "https://www.instagram.com/alana.official.bg/",
+    "facebook": "https://www.facebook.com/Alana.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/alana-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/alana-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/alana-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/alana-fanart.jpg",
+  "musicbrainz_id": "5f98b1c3-51bc-46c0-8ff6-f3385d7cbcf9"
+}
