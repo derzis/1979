@@ -1,0 +1,23 @@
+{
+  "artist": "Niki",
+  "name": "Ники",
+  "alias": ["Niki", "Niki Official", "Ники Официално"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Nikola Dimitrov",
+  "birth_date": "1999-03-12",
+  "bio": "Niki este un artist din noul val al muzicii pop-folk bulgărești, remarcat prin stilul său trap-folk modern, ritmuri urbane și colaborări cu artiști populari din Hit Mix Music. Cu o imagine fresh și o energie puternică, atrage atenția publicului tânăr.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@NikiOfficial",
+    "instagram": "https://www.instagram.com/niki.official.bg/",
+    "facebook": "https://www.facebook.com/Niki.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/niki-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/niki-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/niki-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/niki-fanart.jpg",
+  "musicbrainz_id": "ef3f725f-ef11-4434-b5b0-c9635e278f9f"
+}
