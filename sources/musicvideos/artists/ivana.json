@@ -1,0 +1,23 @@
+{
+  "artist": "Ivana",
+  "name": "Ивана",
+  "alias": ["Ivana", "Vania Todorova Kaludova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Vania Todorova Kaludova",
+  "birth_date": "1969-12-31",
+  "bio": "Ivana este una dintre cele mai emblematice cântărețe de muzică pop-folk din Bulgaria. Activă de peste două decenii, este apreciată pentru vocea sa puternică și textele sensibile, care au făcut-o iubită de mai multe generații.",
+  "active_years": "1999–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/ivana/",
+  "social": {
+    "youtube": "https://www.youtube.com/@IvanaOfficial",
+    "instagram": "https://www.instagram.com/ivana.official.bg/",
+    "facebook": "https://www.facebook.com/Ivana.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/ivana-main.jpg",
+  "poster": "https://payner.bg/images/artists/ivana-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/ivana-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/ivana-fanart.jpg",
+  "musicbrainz_id": "26786d89-216a-497c-a198-4ad6cbdd6a6a"
+}
