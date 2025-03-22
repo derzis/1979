@@ -1,0 +1,23 @@
+{
+  "artist": "Radko",
+  "name": "Радко",
+  "alias": ["Radko", "Radko Official", "Радко Бенд"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Radko Stoyanov",
+  "birth_date": "1988-02-02",
+  "bio": "Radko este un interpret bulgar de muzică pop-folk, cunoscut pentru piesele de dragoste și melodiile de petrecere cu influențe tradiționale. A cântat atât solo, cât și cu orchestră live, devenind o prezență constantă în cluburile și evenimentele folclorice.",
+  "active_years": "2010–prezent",
+  "labels": ["Sunny Music", "Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@RadkoOfficial",
+    "instagram": "https://www.instagram.com/radko.official.bg/",
+    "facebook": "https://www.facebook.com/Radko.Official.Page"
+  },
+  "image": "https://sunnymusic.bg/images/artists/radko-main.jpg",
+  "poster": "https://sunnymusic.bg/images/artists/radko-poster.jpg",
+  "thumbnail": "https://sunnymusic.bg/images/artists/radko-thumb.jpg",
+  "fanart": "https://sunnymusic.bg/images/artists/radko-fanart.jpg",
+  "musicbrainz_id": "93c6b35f-6c6c-447f-b6ec-16e12b5a6e79"
+}
