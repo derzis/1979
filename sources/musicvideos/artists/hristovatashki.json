@@ -1,0 +1,23 @@
+{
+  "artist": "Hristo Vatashki",
+  "name": "Христо Ваташки",
+  "alias": ["Hristo Vatashki", "Hristo V.", "Vatashki"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Hristo Vatashki",
+  "birth_date": "1990-06-03",
+  "bio": "Hristo Vatashki este un interpret de muzică pop-folk și folclor bulgăresc, cunoscut pentru baladele sale sensibile și vocea caldă. A câștigat inimile publicului prin piese cu influențe tradiționale și versuri romantice.",
+  "active_years": "2015–prezent",
+  "labels": ["Diapason Records"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@HristoVatashkiOfficial",
+    "instagram": "https://www.instagram.com/hristo.vatashki/",
+    "facebook": "https://www.facebook.com/HristoVatashki.Official.Page"
+  },
+  "image": "https://diapasonrecords.com/images/artists/hristovatashki-main.jpg",
+  "poster": "https://diapasonrecords.com/images/artists/hristovatashki-poster.jpg",
+  "thumbnail": "https://diapasonrecords.com/images/artists/hristovatashki-thumb.jpg",
+  "fanart": "https://diapasonrecords.com/images/artists/hristovatashki-fanart.jpg",
+  "musicbrainz_id": "89112f6f-09ef-4ff1-857c-8a8ed94e3c40"
+}
