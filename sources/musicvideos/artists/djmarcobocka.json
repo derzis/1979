@@ -1,0 +1,23 @@
+{
+  "artist": "DJ Marco Bocka",
+  "name": "DJ Marco Bocka",
+  "alias": ["DJ Marco Bocka", "Marco Bocka", "Bocka"],
+  "country": "Bulgaria",
+  "genres": ["Club", "Pop-folk", "Chalga", "Remix"],
+  "birth_name": "Marco Bocka",
+  "birth_date": "1990-08-11",
+  "bio": "DJ Marco Bocka este unul dintre cei mai cunoscuți DJ și producători de remixuri din scena pop-folk bulgară. Este renumit pentru stilul său exploziv în cluburi și pentru colaborările cu artiști de top din chalga, având un rol esențial în popularizarea genului trap-folk.",
+  "active_years": "2012–prezent",
+  "labels": ["Independent"],
+  "official_website": "https://djmarcobocka.com/",
+  "social": {
+    "youtube": "https://www.youtube.com/@DJMarcoBocka",
+    "instagram": "https://www.instagram.com/djmarcobocka/",
+    "facebook": "https://www.facebook.com/DJMarcoBocka"
+  },
+  "image": "https://djmarcobocka.com/images/bocka-main.jpg",
+  "poster": "https://djmarcobocka.com/images/bocka-poster.jpg",
+  "thumbnail": "https://djmarcobocka.com/images/bocka-thumb.jpg",
+  "fanart": "https://djmarcobocka.com/images/bocka-fanart.jpg",
+  "musicbrainz_id": "9e2a9714-4d0e-47b5-b43e-7a67b963b16f"
+}
