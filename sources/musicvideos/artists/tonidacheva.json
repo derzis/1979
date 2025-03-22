@@ -1,0 +1,23 @@
+{
+  "artist": "Toni Dacheva",
+  "name": "Тони Дачева",
+  "alias": ["Toni Dacheva", "Toni", "Tonka Dacheva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Tonka Dacheva",
+  "birth_date": "1966-01-19",
+  "bio": "Toni Dacheva este una dintre cele mai influente cântărețe din muzica pop-folk bulgară. A făcut parte din grupul „Orkestar Kristal” și a contribuit semnificativ la dezvoltarea genului chalga în anii ’90. Este cunoscută pentru melodiile sale emblematice și vocea distinctivă.",
+  "active_years": "1985–prezent",
+  "labels": ["Ara Music", "Sunny Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@ToniDachevaOfficial",
+    "instagram": "https://www.instagram.com/tonidacheva/",
+    "facebook": "https://www.facebook.com/ToniDacheva.Official.Page"
+  },
+  "image": "https://aramusic.bg/images/artists/tonidacheva-main.jpg",
+  "poster": "https://aramusic.bg/images/artists/tonidacheva-poster.jpg",
+  "thumbnail": "https://aramusic.bg/images/artists/tonidacheva-thumb.jpg",
+  "fanart": "https://aramusic.bg/images/artists/tonidacheva-fanart.jpg",
+  "musicbrainz_id": "efda8122-640b-4b5c-8502-2c30558fd09e"
+}
