@@ -1,0 +1,23 @@
+{
+  "artist": "Bilyanish",
+  "name": "Биляниш",
+  "alias": ["Bilyanish", "Bilyana Yordanova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Bilyana Yordanova",
+  "birth_date": "1998-04-30",
+  "bio": "Bilyanish este o artistă nonconformistă din scena pop-folk și trap-folk bulgară. A devenit cunoscută pentru look-ul său extravagant și stilul muzical controversat. Este activă pe YouTube și rețelele sociale, unde are o bază solidă de fani.",
+  "active_years": "2020–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@BilyanishOfficial",
+    "instagram": "https://www.instagram.com/bilyanish.official/",
+    "facebook": "https://www.facebook.com/Bilyanish.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/bilyanish-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/bilyanish-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/bilyanish-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/bilyanish-fanart.jpg",
+  "musicbrainz_id": "3a9d75a2-bcc0-4823-87fc-5f934144e329"
+}
