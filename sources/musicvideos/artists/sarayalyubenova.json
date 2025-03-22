@@ -1,0 +1,23 @@
+{
+  "artist": "Saraya Lyubenova",
+  "name": "Сарая Любенова",
+  "alias": ["Saraya Lyubenova", "Saraya", "Sara Lyubenova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Trap-folk"],
+  "birth_name": "Saraya Lyubenova",
+  "birth_date": "2002-04-12",
+  "bio": "Saraya Lyubenova este o tânără cântăreață din Bulgaria care s-a remarcat recent în scena pop-folk cu un stil modern ce îmbină trap și chalga. Cu o imagine curajoasă și o voce distinctă, a câștigat rapid atenția publicului tânăr.",
+  "active_years": "2022–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SarayaOfficial",
+    "instagram": "https://www.instagram.com/saraya.official.bg/",
+    "facebook": "https://www.facebook.com/Saraya.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/saraya-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/saraya-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/saraya-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/saraya-fanart.jpg",
+  "musicbrainz_id": "18a5dcb3-b415-44c5-9435-b882302ce1d3"
+}
