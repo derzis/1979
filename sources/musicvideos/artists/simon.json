@@ -1,0 +1,23 @@
+{
+  "artist": "Simon",
+  "name": "Саймън",
+  "alias": ["Simon", "Saimon", "Simon Official"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Trap-folk", "Chalga"],
+  "birth_name": "Simon Petrov",
+  "birth_date": "1997-06-18",
+  "bio": "Simon este un artist tânăr din Bulgaria care s-a remarcat prin combinarea trap-ului cu stilul pop-folk tradițional. Cu piese moderne și o imagine urbană, el este parte din noul val al scenei chalga și colaborează frecvent cu alți artiști contemporani.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SimonOfficial",
+    "instagram": "https://www.instagram.com/simon.official.bg/",
+    "facebook": "https://www.facebook.com/Simon.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/simon-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/simon-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/simon-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/simon-fanart.jpg",
+  "musicbrainz_id": "6c5a1746-b206-421c-8427-d63e4b4fa5fd"
+}
