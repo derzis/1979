@@ -1,0 +1,23 @@
+{
+  "artist": "Mahrez",
+  "name": "Махрез",
+  "alias": ["Mahrez", "Mahrez Official", "Mahrez BG"],
+  "country": "Bulgaria",
+  "genres": ["Trap-folk", "Pop-folk", "Urban"],
+  "birth_name": "Mahrez Ivanov",
+  "birth_date": "1997-03-29",
+  "bio": "Mahrez este un artist bulgar cunoscut pentru stilul său urban și fuziunea între trap și pop-folk. Cu o imagine nonconformistă și piese cu beat-uri moderne, Mahrez face parte din noul val de artiști care aduc un suflu contemporan scenei chalga.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@MahrezOfficial",
+    "instagram": "https://www.instagram.com/mahrez.official.bg/",
+    "facebook": "https://www.facebook.com/Mahrez.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/mahrez-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/mahrez-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/mahrez-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/mahrez-fanart.jpg",
+  "musicbrainz_id": "c3ff0ae4-0733-4f1a-afe2-d13b2c1e9a44"
+}
