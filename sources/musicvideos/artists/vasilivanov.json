@@ -1,0 +1,23 @@
+{
+  "artist": "Vasil Ivanov",
+  "name": "Васил Иванов",
+  "alias": ["Vasil Ivanov", "Vasko", "Vasil I."],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Folk", "Chalga"],
+  "birth_name": "Vasil Ivanov",
+  "birth_date": "1986-07-10",
+  "bio": "Vasil Ivanov este un cântăreț de muzică folk și pop-folk din Bulgaria, cunoscut pentru stilul său clasic și interpretările tradiționale. A activat în diverse formații folclorice și a lansat mai multe piese ca artist solo.",
+  "active_years": "2010–prezent",
+  "labels": ["Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@VasilIvanovOfficial",
+    "instagram": "https://www.instagram.com/vasil.ivanov.music/",
+    "facebook": "https://www.facebook.com/VasilIvanov.Official"
+  },
+  "image": "https://folk.bg/images/artists/vasilivanov-main.jpg",
+  "poster": "https://folk.bg/images/artists/vasilivanov-poster.jpg",
+  "thumbnail": "https://folk.bg/images/artists/vasilivanov-thumb.jpg",
+  "fanart": "https://folk.bg/images/artists/vasilivanov-fanart.jpg",
+  "musicbrainz_id": "02eaa1a6-d03a-4d42-bccb-d1105a1133ef"
+}
