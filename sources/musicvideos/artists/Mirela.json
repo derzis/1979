@@ -1,0 +1,23 @@
+{
+  "artist": "Mirela",
+  "name": "Мирела",
+  "alias": ["Mirela", "Mirela Kostadinova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Mirela Kostadinova",
+  "birth_date": "1996-06-09",
+  "bio": "Mirela este o tânără cântăreață din Bulgaria care s-a făcut remarcată în industria pop-folk prin vocea sa caldă și stilul melodic. Face parte din noua generație de interprete chalga care aduc un suflu fresh genului.",
+  "active_years": "2021–prezent",
+  "labels": ["Hit Mix Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@MirelaOfficial",
+    "instagram": "https://www.instagram.com/mirela.official.bg/",
+    "facebook": "https://www.facebook.com/Mirela.Official.Page"
+  },
+  "image": "https://hitmixmusic.bg/images/artists/mirela-main.jpg",
+  "poster": "https://hitmixmusic.bg/images/artists/mirela-poster.jpg",
+  "thumbnail": "https://hitmixmusic.bg/images/artists/mirela-thumb.jpg",
+  "fanart": "https://hitmixmusic.bg/images/artists/mirela-fanart.jpg",
+  "musicbrainz_id": "479750f5-b140-49a8-a3e7-5cf785962b70"
+}
