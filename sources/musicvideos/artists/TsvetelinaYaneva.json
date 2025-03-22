@@ -1,0 +1,23 @@
+{
+  "artist": "Tsvetelina Yaneva",
+  "name": "Цветелина Янева",
+  "alias": ["Tsvetelina Yaneva", "Tsvetelina", "Tsveti", "Cvetelina", "Cvetelina Yaneva"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Tsvetelina Yaneva",
+  "birth_date": "1989-10-05",
+  "bio": "Tsvetelina Yaneva este o cântăreață modernă de pop-folk din Bulgaria, cunoscută pentru imaginea sa stilizată și melodiile fresh. A colaborat cu artiști mari și a devenit un nume reprezentativ al noii generații de muzicieni chalga.",
+  "active_years": "2008–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/tsvetelinayaneva/",
+  "social": {
+    "youtube": "https://www.youtube.com/@TsvetelinaYaneva",
+    "instagram": "https://www.instagram.com/tsvetelinayaneva/",
+    "facebook": "https://www.facebook.com/TsvetelinaYaneva.Official"
+  },
+  "image": "https://payner.bg/images/artists/tsvetelina-main.jpg",
+  "poster": "https://payner.bg/images/artists/tsvetelina-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/tsvetelina-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/tsvetelina-fanart.jpg",
+  "musicbrainz_id": "71a12de5-0cf4-4e14-bf94-b2f68cd2c345"
+}
