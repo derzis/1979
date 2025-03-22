@@ -1,0 +1,23 @@
+{
+  "artist": "Roksana",
+  "name": "Роксана",
+  "alias": ["Roksana", "Roksana Emiliyanova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Folk"],
+  "birth_name": "Roksana Emiliyanova",
+  "birth_date": "1985-03-02",
+  "bio": "Roksana este o cântăreață de muzică pop-folk din Bulgaria, cunoscută pentru stilul ei pasional și interpretarea melodiilor cu tematică emoțională. Ea îmbină elemente tradiționale cu sunete moderne și este apreciată în special pentru piesele dedicate familiei și dragostei.",
+  "active_years": "2009–prezent",
+  "labels": ["Diapason Records"],
+  "official_website": "https://diapasonrecords.com/roksana",
+  "social": {
+    "youtube": "https://www.youtube.com/@RoksanaOfficial",
+    "instagram": "https://www.instagram.com/roksana.official.bg/",
+    "facebook": "https://www.facebook.com/Roksana.Official.Page"
+  },
+  "image": "https://diapasonrecords.com/images/artists/roksana-main.jpg",
+  "poster": "https://diapasonrecords.com/images/artists/roksana-poster.jpg",
+  "thumbnail": "https://diapasonrecords.com/images/artists/roksana-thumb.jpg",
+  "fanart": "https://diapasonrecords.com/images/artists/roksana-fanart.jpg",
+  "musicbrainz_id": "b9937c0d-b39e-4cfd-86a2-2064e9de09f3"
+}
