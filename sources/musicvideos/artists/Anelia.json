@@ -1,0 +1,23 @@
+{
+  "artist": "Anelia",
+  "name": "Анелия",
+  "alias": ["Anelia", "Aneliya Georgieva Atanasova"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Aneliya Georgieva Atanasova",
+  "birth_date": "1982-07-01",
+  "bio": "Anelia este o cântăreață bulgară de muzică pop-folk, cunoscută pentru hiturile sale melodice și stilul său elegant. A debutat în 2002 cu melodia 'Pogledni me v ochite', care a devenit un succes major în Bulgaria. De-a lungul anilor, a lansat mai multe albume de succes și este considerată una dintre cele mai influente voci feminine din muzica chalga.",
+  "active_years": "2002–prezent",
+  "labels": ["Payner Music"],
+  "official_website": "https://payner.bg/artists/anelia/",
+  "social": {
+    "youtube": "https://www.youtube.com/@AneliaOfficial",
+    "instagram": "https://www.instagram.com/anelia.music/",
+    "facebook": "https://www.facebook.com/Anelia.Official.Page"
+  },
+  "image": "https://payner.bg/images/artists/anelia-main.jpg",
+  "poster": "https://payner.bg/images/artists/anelia-poster.jpg",
+  "thumbnail": "https://payner.bg/images/artists/anelia-thumb.jpg",
+  "fanart": "https://payner.bg/images/artists/anelia-fanart.jpg",
+  "musicbrainz_id": "5a74e2f1-5b26-4c4a-a181-7e3881cbef1c"
+}
