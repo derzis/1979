@@ -1,0 +1,23 @@
+{
+  "artist": "Salko",
+  "name": "Салко",
+  "alias": ["Salko", "Salko Official", "Салко БГ"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga", "Roma music"],
+  "birth_name": "Salko Ivanov",
+  "birth_date": "1973-02-17",
+  "bio": "Salko este un cântăreț bulgar de origine romă, cunoscut pentru stilul său tradițional pop-folk și piese de petrecere. Activ de mai multe decenii, este apreciat pentru vocea sa expresivă și contribuția sa în popularizarea muzicii de gen în comunitățile balcanice.",
+  "active_years": "1995–prezent",
+  "labels": ["Sunny Music", "Ara Music", "Independent"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SalkoOfficial",
+    "instagram": "https://www.instagram.com/salko.official.bg/",
+    "facebook": "https://www.facebook.com/Salko.Official.Page"
+  },
+  "image": "https://folk.bg/images/artists/salko-main.jpg",
+  "poster": "https://folk.bg/images/artists/salko-poster.jpg",
+  "thumbnail": "https://folk.bg/images/artists/salko-thumb.jpg",
+  "fanart": "https://folk.bg/images/artists/salko-fanart.jpg",
+  "musicbrainz_id": "bd04a221-62e0-41ff-9c48-3c3a37ec3d7e"
+}
