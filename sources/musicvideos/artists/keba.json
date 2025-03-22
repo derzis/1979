@@ -1,0 +1,23 @@
+{
+  "artist": "Keba",
+  "name": "Кеба",
+  "alias": ["Keba", "Dragan Kojić Keba"],
+  "country": "Serbia",
+  "genres": ["Pop-folk", "Turbo-folk", "Balkan"],
+  "birth_name": "Dragan Kojić",
+  "birth_date": "1960-09-07",
+  "bio": "Keba este un interpret sârb de muzică turbo-folk, cunoscut în întreaga regiune balcanică. Cu o carieră de peste trei decenii, el este recunoscut pentru vocea sa puternică, hiturile de petrecere și energia sa inconfundabilă pe scenă.",
+  "active_years": "1984–prezent",
+  "labels": ["Grand Production", "PGP-RTS"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@KebaOfficial",
+    "instagram": "https://www.instagram.com/kebadragankojic/",
+    "facebook": "https://www.facebook.com/DraganKojicKebaOfficial"
+  },
+  "image": "https://grand.online/uploads/singers/keba-main.jpg",
+  "poster": "https://grand.online/uploads/singers/keba-poster.jpg",
+  "thumbnail": "https://grand.online/uploads/singers/keba-thumb.jpg",
+  "fanart": "https://grand.online/uploads/singers/keba-fanart.jpg",
+  "musicbrainz_id": "fb29e6aa-f36d-4fc7-86ec-06584e2b688a"
+}
