@@ -1,0 +1,23 @@
+{
+  "artist": "Kamelia",
+  "name": "Камелия",
+  "alias": ["Kamelia", "Kamelia Veskova", "Kamelia Popfolk"],
+  "country": "Bulgaria",
+  "genres": ["Pop-folk", "Chalga"],
+  "birth_name": "Kamelia Todorova Veskova",
+  "birth_date": "1971-01-10",
+  "bio": "Kamelia este una dintre cele mai populare și longevive cântărețe de muzică pop-folk din Bulgaria. Este cunoscută pentru stilul său sexy, energia pe scenă și hituri care au devenit clasice în genul chalga. A avut și apariții TV ca prezentatoare și jurat.",
+  "active_years": "1997–prezent",
+  "labels": ["Payner Music", "Kams Production"],
+  "official_website": "https://kamelia.bg/",
+  "social": {
+    "youtube": "https://www.youtube.com/@KameliaOfficial",
+    "instagram": "https://www.instagram.com/kamelia.official.bg/",
+    "facebook": "https://www.facebook.com/Kamelia.Official.Page"
+  },
+  "image": "https://kamelia.bg/images/kamelia-main.jpg",
+  "poster": "https://kamelia.bg/images/kamelia-poster.jpg",
+  "thumbnail": "https://kamelia.bg/images/kamelia-thumb.jpg",
+  "fanart": "https://kamelia.bg/images/kamelia-fanart.jpg",
+  "musicbrainz_id": "f08b3ff0-6ef6-4bb3-9ff5-1be97d47d0f6"
+}
