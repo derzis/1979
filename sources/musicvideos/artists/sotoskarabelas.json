@@ -1,0 +1,23 @@
+{
+  "artist": "Sotos Karabelas",
+  "name": "Σώτος Καραμπέλας",
+  "alias": ["Sotos Karabelas", "Sotos Karampelas", "Σώτος Καραμπέλας"],
+  "country": "Grecia",
+  "genres": ["Laïko", "Pop-folk", "Greek folk", "Chalga (Balkan)"],
+  "birth_name": "Sotirios Karabelas",
+  "birth_date": "1980-05-17",
+  "bio": "Sotos Karabelas este un cântăreț grec cunoscut atât în Grecia, cât și în Bulgaria pentru stilul său laïko și influențele balcanice. A colaborat cu artiști pop-folk din Balcani și este apreciat pentru vocea sa puternică și piesele cu emoție.",
+  "active_years": "2002–prezent",
+  "labels": ["Heaven Music", "Balkanika Music"],
+  "official_website": "",
+  "social": {
+    "youtube": "https://www.youtube.com/@SotosKarabelasOfficial",
+    "instagram": "https://www.instagram.com/sotoskarabelas/",
+    "facebook": "https://www.facebook.com/SotosKarabelas.Official"
+  },
+  "image": "https://balkanika.tv/images/artists/sotoskarabelas-main.jpg",
+  "poster": "https://balkanika.tv/images/artists/sotoskarabelas-poster.jpg",
+  "thumbnail": "https://balkanika.tv/images/artists/sotoskarabelas-thumb.jpg",
+  "fanart": "https://balkanika.tv/images/artists/sotoskarabelas-fanart.jpg",
+  "musicbrainz_id": "c0d71eb1-7a93-4417-9a5a-12bc6e6dbe83"
+}
